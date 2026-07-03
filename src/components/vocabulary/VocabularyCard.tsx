@@ -1,24 +1,35 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import type { Word } from '../../types';
 import { Volume2, Mic, CheckCircle } from 'lucide-react';
 import { useSpeechSynthesis } from '../../hooks/useSpeechSynthesis';
 import { useSpeechRecognition } from '../../hooks/useSpeechRecognition';
 import { useSettings } from '../../contexts/SettingsContext';
+import { useProgress } from '../../contexts/ProgressContext';
 
 interface VocabularyCardProps {
   word: Word;
+  topicId: number;
 }
 
-export const VocabularyCard: React.FC<VocabularyCardProps> = ({ word }) => {
+export const VocabularyCard: React.FC<VocabularyCardProps> = ({ word, topicId }) => {
   const { speak } = useSpeechSynthesis();
   const { transcript, isRecording, startRecording, stopRecording, setTranscript } = useSpeechRecognition();
   const { t } = useSettings();
+  const { markWordAsLearned, learnedWords } = useProgress();
   
   const [showMeaning, setShowMeaning] = useState(false);
 
   const normalizedVocab = word.VOCABULARY.toLowerCase().trim();
   const normalizedTranscript = transcript.toLowerCase().trim();
-  const isCorrect = normalizedTranscript === normalizedVocab && normalizedTranscript !== '';
+  const isNewlyCorrect = normalizedTranscript === normalizedVocab && normalizedTranscript !== '';
+  const isLearned = learnedWords[topicId]?.includes(word.VOCABULARY) || false;
+  const isCorrect = isNewlyCorrect || isLearned;
+
+  useEffect(() => {
+    if (isNewlyCorrect && !isLearned) {
+      markWordAsLearned(topicId, word.VOCABULARY);
+    }
+  }, [isNewlyCorrect, isLearned, topicId, word.VOCABULARY, markWordAsLearned]);
 
   const handleSpeak = (e: React.MouseEvent) => {
     e.stopPropagation();
@@ -96,7 +107,7 @@ export const VocabularyCard: React.FC<VocabularyCardProps> = ({ word }) => {
             <input 
               type="text" 
               readOnly 
-              value={transcript}
+              value={isLearned && transcript === '' ? word.VOCABULARY : transcript}
               placeholder="..."
               className="bg-transparent w-full outline-none text-sm text-slate-700 dark:text-slate-200 placeholder-slate-400 dark:placeholder-slate-500"
             />

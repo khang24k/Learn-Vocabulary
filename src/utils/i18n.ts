@@ -25,6 +25,7 @@ export const translations = {
     voiceLookup: "Luyện nói",
     holdToSpeak: "Nhấn và giữ Microphone để nói...",
     translating: "Đang dịch...",
+    learningProgress: "Tiến độ học",
   },
   en: {
     appTitle: "Vocabulary",
@@ -50,5 +51,6 @@ export const translations = {
     voiceLookup: "Voice Lookup",
     holdToSpeak: "Press and hold Microphone to speak...",
     translating: "Translating...",
+    learningProgress: "Learning Progress",
   }
 };

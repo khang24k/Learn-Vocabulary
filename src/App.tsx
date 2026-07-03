@@ -8,7 +8,7 @@ import { SettingsPage } from './components/settings/SettingsPage';
 import { VoiceLookupPage } from './components/speech/VoiceLookupPage';
 import { useVocabularyData } from './hooks/useVocabularyData';
 import { SettingsProvider } from './contexts/SettingsContext';
-
+import { ProgressProvider } from './contexts/ProgressContext';
 function AppContent() {
   const { topics, isLoading, error } = useVocabularyData();
 
@@ -43,10 +43,13 @@ function AppContent() {
   );
 }
 
+
 function App() {
   return (
     <SettingsProvider>
-      <AppContent />
+      <ProgressProvider>
+        <AppContent />
+      </ProgressProvider>
     </SettingsProvider>
   );
 }
