@@ -26,6 +26,8 @@ export const translations = {
     holdToSpeak: "Nhấn và giữ Microphone để nói...",
     translating: "Đang dịch...",
     learningProgress: "Tiến độ học",
+    save: "Lưu cài đặt",
+    saving: "Đang lưu...",
   },
   en: {
     appTitle: "Vocabulary",
@@ -52,5 +54,7 @@ export const translations = {
     holdToSpeak: "Press and hold Microphone to speak...",
     translating: "Translating...",
     learningProgress: "Learning Progress",
+    save: "Save Settings",
+    saving: "Saving...",
   }
 };

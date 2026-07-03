@@ -15,6 +15,9 @@ interface SettingsContextType {
   lastScrollPos: number;
   setLastScrollPos: (pos: number) => void;
   t: typeof translations.vi;
+  hasUnsavedChanges: boolean;
+  saveSettings: () => Promise<void>;
+  isSaving: boolean;
 }
 
 const SettingsContext = createContext<SettingsContextType | undefined>(undefined);
@@ -45,45 +48,69 @@ export const SettingsProvider: React.FC<{ children: ReactNode }> = ({ children }
     return saved ? parseInt(saved, 10) : 0;
   });
 
+  const [dbSettings, setDbSettings] = useState({
+    theme: theme,
+    language: language,
+    speechRate: speechRate
+  });
+  const [isSaving, setIsSaving] = useState(false);
+
   const { isAuthenticated, user } = useAuth();
 
   useEffect(() => {
     if (isAuthenticated && user?.settings) {
-      if (user.settings.theme) setThemeState(user.settings.theme as 'light' | 'dark');
-      if (user.settings.language) setLanguageState(user.settings.language as Language);
-      if (user.settings.speechRate !== undefined) setSpeechRateState(user.settings.speechRate);
+      const newTheme = (user.settings.theme as 'light' | 'dark') || 'light';
+      const newLang = (user.settings.language as Language) || 'vi';
+      const newRate = user.settings.speechRate !== undefined ? user.settings.speechRate : 1.0;
+      
+      setThemeState(newTheme);
+      setLanguageState(newLang);
+      setSpeechRateState(newRate);
+      
+      setDbSettings({
+        theme: newTheme,
+        language: newLang,
+        speechRate: newRate
+      });
     }
   }, [isAuthenticated, user]);
 
-  const syncSettings = async (updates: Record<string, any>) => {
+  const hasUnsavedChanges = isAuthenticated ? (
+    theme !== dbSettings.theme || 
+    language !== dbSettings.language || 
+    speechRate !== dbSettings.speechRate
+  ) : false;
+
+  const saveSettings = async () => {
     if (!isAuthenticated) return;
+    setIsSaving(true);
     try {
       await fetch('/api/sync/settings', {
         method: 'PUT',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(updates),
+        body: JSON.stringify({ theme, language, speechRate }),
       });
+      setDbSettings({ theme, language, speechRate });
     } catch (e) {
       console.error('Failed to sync settings:', e);
+    } finally {
+      setIsSaving(false);
     }
   };
 
   const setTheme = (newTheme: 'light' | 'dark') => {
     setThemeState(newTheme);
     localStorage.setItem('theme', newTheme);
-    syncSettings({ theme: newTheme });
   };
 
   const setLanguage = (lang: Language) => {
     setLanguageState(lang);
     localStorage.setItem('language', lang);
-    syncSettings({ language: lang });
   };
 
   const setSpeechRate = (rate: number) => {
     setSpeechRateState(rate);
     localStorage.setItem('speechRate', rate.toString());
-    syncSettings({ speechRate: rate });
   };
 
   const setLastTopicId = (id: number | null) => {
@@ -118,7 +145,10 @@ export const SettingsProvider: React.FC<{ children: ReactNode }> = ({ children }
       speechRate, setSpeechRate, 
       lastTopicId, setLastTopicId,
       lastScrollPos, setLastScrollPos,
-      t 
+      t,
+      hasUnsavedChanges,
+      saveSettings,
+      isSaving
     }}>
       {children}
     </SettingsContext.Provider>

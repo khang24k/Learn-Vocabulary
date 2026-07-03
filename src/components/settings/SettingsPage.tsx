@@ -1,9 +1,11 @@
 import React from 'react';
 import { useSettings } from '../../contexts/SettingsContext';
-import { Settings as SettingsIcon, Globe, Moon, Sun, Volume2 } from 'lucide-react';
+import { Settings as SettingsIcon, Globe, Moon, Sun, Volume2, Save } from 'lucide-react';
+import { useAuth } from '../../contexts/AuthContext';
 
 export const SettingsPage: React.FC = () => {
-  const { theme, setTheme, language, setLanguage, speechRate, setSpeechRate, t } = useSettings();
+  const { theme, setTheme, language, setLanguage, speechRate, setSpeechRate, t, hasUnsavedChanges, saveSettings, isSaving } = useSettings();
+  const { isAuthenticated } = useAuth();
 
   return (
     <div className="max-w-2xl mx-auto">
@@ -105,6 +107,24 @@ export const SettingsPage: React.FC = () => {
             </div>
           </div>
         </div>
+
+        {/* Save Button (Only shown if authenticated) */}
+        {isAuthenticated && (
+          <div className="p-6 bg-slate-50 dark:bg-slate-800/50 border-t border-slate-200 dark:border-slate-700 flex justify-end">
+            <button
+              onClick={saveSettings}
+              disabled={!hasUnsavedChanges || isSaving}
+              className={`flex items-center px-6 py-2.5 rounded-lg font-medium transition-all ${
+                hasUnsavedChanges 
+                  ? 'bg-blue-600 hover:bg-blue-700 text-white shadow-md hover:shadow-lg' 
+                  : 'bg-slate-200 dark:bg-slate-700 text-slate-400 dark:text-slate-500 cursor-not-allowed'
+              }`}
+            >
+              <Save className="w-5 h-5 mr-2" />
+              {isSaving ? t.saving || 'Đang lưu...' : t.save || 'Lưu cài đặt'}
+            </button>
+          </div>
+        )}
 
       </div>
     </div>
