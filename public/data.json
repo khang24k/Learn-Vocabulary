@@ -1,0 +1,7072 @@
+[
+  {
+    "id": 1,
+    "topicName": "JOB - NGHỀ NGHIỆP",
+    "originalFile": "01 JOB - NGHỀ NGHIỆP.json",
+    "words": [
+      {
+        "STT": 1,
+        "VOCABULARY": "accountant",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/əˈkaʊn.t̬ənt/",
+        "MEANING": "kế toán"
+      },
+      {
+        "STT": 2,
+        "VOCABULARY": "actor/ actress",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈæk.tɚ/ /ˈæk.trəs/",
+        "MEANING": "diễn viên"
+      },
+      {
+        "STT": 3,
+        "VOCABULARY": "artist",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈɑːr.t̬ɪst/",
+        "MEANING": "nghệ sĩ"
+      },
+      {
+        "STT": 4,
+        "VOCABULARY": "astronaut",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈæs.trə.nɑːt/",
+        "MEANING": "phi hành gia"
+      },
+      {
+        "STT": 5,
+        "VOCABULARY": "baker",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈbeɪ.kɚ/",
+        "MEANING": "thợ nướng bánh"
+      },
+      {
+        "STT": 6,
+        "VOCABULARY": "butcher",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈbʊtʃ.ɚ/",
+        "MEANING": "người mổ thịt"
+      },
+      {
+        "STT": 7,
+        "VOCABULARY": "cashier",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/kæʃˈɪr/",
+        "MEANING": "nhân viên thu ngân"
+      },
+      {
+        "STT": 8,
+        "VOCABULARY": "chef",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ʃef/",
+        "MEANING": "đầu bếp"
+      },
+      {
+        "STT": 9,
+        "VOCABULARY": "comedian",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/kəˈmiː.di.ən/",
+        "MEANING": "diễn viên hài"
+      },
+      {
+        "STT": 10,
+        "VOCABULARY": "delivery man",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/dɪˈlɪv.ɚ.i.mæn/",
+        "MEANING": "nhân viên giao hàng"
+      },
+      {
+        "STT": 11,
+        "VOCABULARY": "doctor",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈdoktə/",
+        "MEANING": "bác sĩ"
+      },
+      {
+        "STT": 12,
+        "VOCABULARY": "entrepreneur",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˌɑːn.trə.prəˈnɝː/",
+        "MEANING": "nhà kinh doanh"
+      },
+      {
+        "STT": 13,
+        "VOCABULARY": "engineer",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˌen.dʒɪˈnɪər/",
+        "MEANING": "kỹ sư"
+      },
+      {
+        "STT": 14,
+        "VOCABULARY": "factory worker",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈfæk.tɚ.i ˈwɝː.kɚ/",
+        "MEANING": "công nhân nhà máy"
+      },
+      {
+        "STT": 15,
+        "VOCABULARY": "office worker",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈɑː.fɪs ˈwɝː.kɚ/",
+        "MEANING": "nhân viên văn phòng"
+      },
+      {
+        "STT": 16,
+        "VOCABULARY": "florist",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈflɔːr.ɪst/",
+        "MEANING": "người bán hoa"
+      },
+      {
+        "STT": 17,
+        "VOCABULARY": "hairdresser",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈherˌdres.ɚ/",
+        "MEANING": "thợ cắt tóc"
+      },
+      {
+        "STT": 18,
+        "VOCABULARY": "lawyer",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈlɑː.jɚ/",
+        "MEANING": "luật sư"
+      },
+      {
+        "STT": 19,
+        "VOCABULARY": "musician",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/mjuːˈzɪʃ.ən/",
+        "MEANING": "nhạc sĩ, nhạc công"
+      },
+      {
+        "STT": 20,
+        "VOCABULARY": "pharmacist",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈfɑːr.mə.sɪst/",
+        "MEANING": "dược sĩ"
+      },
+      {
+        "STT": 21,
+        "VOCABULARY": "plumber",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈplʌm.ɚ/",
+        "MEANING": "thợ ống nước"
+      },
+      {
+        "STT": 22,
+        "VOCABULARY": "politician",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˌpɑː.ləˈtɪʃ.ən/",
+        "MEANING": "chính trị gia"
+      },
+      {
+        "STT": 23,
+        "VOCABULARY": "programmer",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈproʊ.ɡræm.ɚ/",
+        "MEANING": "lập trình viên"
+      },
+      {
+        "STT": 24,
+        "VOCABULARY": "real estate agent",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈriː.əl ɪ.steɪt ˌeɪ.dʒənt/",
+        "MEANING": "người môi giới bất động sản"
+      },
+      {
+        "STT": 25,
+        "VOCABULARY": "tailor",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈteɪ.lɚ/",
+        "MEANING": "thợ may"
+      },
+      {
+        "STT": 26,
+        "VOCABULARY": "taxi driver",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈtæk.si ˌdraɪ.vɚ/",
+        "MEANING": "tài xế xe taxi"
+      },
+      {
+        "STT": 27,
+        "VOCABULARY": "teacher",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈtiː.tʃɚ/",
+        "MEANING": "giáo viên"
+      },
+      {
+        "STT": 28,
+        "VOCABULARY": "receptionist",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/rɪˈsep.ʃən.ɪst/",
+        "MEANING": "nhân viên lễ tân, tiếp tân"
+      },
+      {
+        "STT": 29,
+        "VOCABULARY": "singer",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈsɪŋ.ɚ/",
+        "MEANING": "ca sĩ"
+      },
+      {
+        "STT": 30,
+        "VOCABULARY": "firefighter",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈfaɪərfaɪtər/",
+        "MEANING": "lính cứu hỏa"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "topicName": "FRUIT - TRÁI CÂY",
+    "originalFile": "02 FRUIT - TRÁI CÂY.json",
+    "words": [
+      {
+        "STT": 1,
+        "VOCABULARY": "apple",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈæp.əl/",
+        "MEANING": "quả táo"
+      },
+      {
+        "STT": 2,
+        "VOCABULARY": "banana",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/bəˈnæn.ə/",
+        "MEANING": "quả chuối"
+      },
+      {
+        "STT": 3,
+        "VOCABULARY": "pear",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/per/",
+        "MEANING": "quả lê"
+      },
+      {
+        "STT": 4,
+        "VOCABULARY": "grape",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ɡreɪp/",
+        "MEANING": "quả nho"
+      },
+      {
+        "STT": 5,
+        "VOCABULARY": "peach",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/piːtʃ/",
+        "MEANING": "quả đào"
+      },
+      {
+        "STT": 6,
+        "VOCABULARY": "orange",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈɔːr.ɪndʒ/",
+        "MEANING": "quả cam"
+      },
+      {
+        "STT": 7,
+        "VOCABULARY": "mango",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈmæŋ.ɡoʊ/",
+        "MEANING": "quả xoài"
+      },
+      {
+        "STT": 8,
+        "VOCABULARY": "coconut",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈkoʊ.kə.nʌt/",
+        "MEANING": "quả dừa"
+      },
+      {
+        "STT": 9,
+        "VOCABULARY": "pineapple",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈpaɪnæpl/",
+        "MEANING": "quả dứa"
+      },
+      {
+        "STT": 10,
+        "VOCABULARY": "watermelon",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈwɑː.t̬ɚˌmel.ən/",
+        "MEANING": "dưa hấu"
+      },
+      {
+        "STT": 11,
+        "VOCABULARY": "durian",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈduːriən/",
+        "MEANING": "sầu riêng"
+      },
+      {
+        "STT": 12,
+        "VOCABULARY": "lychee",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈlaitʃiː, ˈliː-/",
+        "MEANING": "quả vải"
+      },
+      {
+        "STT": 13,
+        "VOCABULARY": "guava",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈɡwaːvə/",
+        "MEANING": "quả ổi"
+      },
+      {
+        "STT": 14,
+        "VOCABULARY": "starfruit",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈstɑːr.fruːt/",
+        "MEANING": "quả khế"
+      },
+      {
+        "STT": 15,
+        "VOCABULARY": "apricot",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈeɪ.prɪ.kɑːt/",
+        "MEANING": "quả mơ"
+      },
+      {
+        "STT": 16,
+        "VOCABULARY": "jackfruit",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈdʒæk.fruːt/",
+        "MEANING": "quả mít"
+      },
+      {
+        "STT": 17,
+        "VOCABULARY": "avocado",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˌɑː.vəˈkɑː.doʊ/",
+        "MEANING": "quả bơ"
+      },
+      {
+        "STT": 18,
+        "VOCABULARY": "papaya",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/pəˈpaɪ.ə/",
+        "MEANING": "quả đu đủ"
+      },
+      {
+        "STT": 19,
+        "VOCABULARY": "plum",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/plʌm/",
+        "MEANING": "quả mận"
+      },
+      {
+        "STT": 20,
+        "VOCABULARY": "lemon",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈlem.ən/",
+        "MEANING": "chanh vàng"
+      },
+      {
+        "STT": 21,
+        "VOCABULARY": "kiwi",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈkiː.wiː/",
+        "MEANING": "quả kiwi (dương đào)"
+      },
+      {
+        "STT": 22,
+        "VOCABULARY": "raspberry",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈræz.ber.i/",
+        "MEANING": "quả mâm xôi"
+      },
+      {
+        "STT": 23,
+        "VOCABULARY": "blueberry",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈbluːˌbər.i/ /ˈbluːˌber.i/",
+        "MEANING": "quả việt quất"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "topicName": "FAMILY - GIA ĐÌNH",
+    "originalFile": "03 FAMILY - GIA ĐÌNH.json",
+    "words": [
+      {
+        "STT": 1,
+        "VOCABULARY": "family",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈfæm.əl.i/",
+        "MEANING": "gia đình"
+      },
+      {
+        "STT": 2,
+        "VOCABULARY": "mother",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈmaðə/",
+        "MEANING": "mẹ"
+      },
+      {
+        "STT": 3,
+        "VOCABULARY": "father",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈfɑː.ðɚ/",
+        "MEANING": "bố, cha"
+      },
+      {
+        "STT": 4,
+        "VOCABULARY": "parent",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈpeərənt/",
+        "MEANING": "bố hoặc mẹ (parents: bố mẹ, phụ huynh)"
+      },
+      {
+        "STT": 5,
+        "VOCABULARY": "daughter",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈdɑː.t̬ɚ/",
+        "MEANING": "con gái"
+      },
+      {
+        "STT": 6,
+        "VOCABULARY": "son",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/san/",
+        "MEANING": "con trai"
+      },
+      {
+        "STT": 7,
+        "VOCABULARY": "sibling",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈsibliŋ/",
+        "MEANING": "anh chị em ruột"
+      },
+      {
+        "STT": 8,
+        "VOCABULARY": "sister",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈsistə/",
+        "MEANING": "chị, em gái"
+      },
+      {
+        "STT": 9,
+        "VOCABULARY": "brother",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈbrʌð.ɚ/",
+        "MEANING": "anh, em trai"
+      },
+      {
+        "STT": 10,
+        "VOCABULARY": "grandmother",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈɡræn.mʌð.ɚ/",
+        "MEANING": "bà nội (ngoại)"
+      },
+      {
+        "STT": 11,
+        "VOCABULARY": "grandfather",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈɡræn.fɑː.ðɚ/",
+        "MEANING": "ông nội (ngoại)"
+      },
+      {
+        "STT": 12,
+        "VOCABULARY": "grandparent",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈɡræn.per.ənt/",
+        "MEANING": "ông hoặc bà (grandparents: ông bà)"
+      },
+      {
+        "STT": 13,
+        "VOCABULARY": "relative",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈrelətiv/",
+        "MEANING": "họ hàng"
+      },
+      {
+        "STT": 14,
+        "VOCABULARY": "aunt",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ænt/",
+        "MEANING": "cô, dì"
+      },
+      {
+        "STT": 15,
+        "VOCABULARY": "uncle",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈaŋkl/",
+        "MEANING": "chú, bác, cậu, dượng"
+      },
+      {
+        "STT": 16,
+        "VOCABULARY": "cousin",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈkʌz.ən/",
+        "MEANING": "anh em họ"
+      },
+      {
+        "STT": 17,
+        "VOCABULARY": "nephew",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈnefjuː/",
+        "MEANING": "cháu trai (con của anh chị em)"
+      },
+      {
+        "STT": 18,
+        "VOCABULARY": "niece",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/niːs/",
+        "MEANING": "cháu gái (con của anh chị em)"
+      },
+      {
+        "STT": 19,
+        "VOCABULARY": "wife",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/waif/",
+        "MEANING": "vợ"
+      },
+      {
+        "STT": 20,
+        "VOCABULARY": "husband",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈhʌz.bənd/",
+        "MEANING": "chồng"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "topicName": "ANIMAL - ĐỘNG VẬT",
+    "originalFile": "04 ANIMAL - ĐỘNG VẬT.json",
+    "words": [
+      {
+        "STT": 1,
+        "VOCABULARY": "mouse",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/maʊs/",
+        "MEANING": "con chuột"
+      },
+      {
+        "STT": 2,
+        "VOCABULARY": "cat",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/kæt/",
+        "MEANING": "con mèo"
+      },
+      {
+        "STT": 3,
+        "VOCABULARY": "dog",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/dɑːɡ/",
+        "MEANING": "con chó"
+      },
+      {
+        "STT": 4,
+        "VOCABULARY": "kitten",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈkɪt̬.ən/",
+        "MEANING": "mèo con"
+      },
+      {
+        "STT": 5,
+        "VOCABULARY": "puppy",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈpʌp.i/",
+        "MEANING": "chó con"
+      },
+      {
+        "STT": 6,
+        "VOCABULARY": "pig",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/pɪɡ/",
+        "MEANING": "con lợn, heo"
+      },
+      {
+        "STT": 7,
+        "VOCABULARY": "chicken",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈtʃɪk.ɪn/",
+        "MEANING": "con gà"
+      },
+      {
+        "STT": 8,
+        "VOCABULARY": "duck",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/dʌk/",
+        "MEANING": "con vịt"
+      },
+      {
+        "STT": 9,
+        "VOCABULARY": "goose",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ɡuːs/",
+        "MEANING": "con ngỗng"
+      },
+      {
+        "STT": 10,
+        "VOCABULARY": "turkey",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈtɝː.ki/",
+        "MEANING": "con gà tây"
+      },
+      {
+        "STT": 11,
+        "VOCABULARY": "stork",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/stɔːrk/",
+        "MEANING": "con cò"
+      },
+      {
+        "STT": 12,
+        "VOCABULARY": "swan",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/swɑːn/",
+        "MEANING": "thiên nga"
+      },
+      {
+        "STT": 13,
+        "VOCABULARY": "rabbit",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈræb.ɪt/",
+        "MEANING": "con thỏ"
+      },
+      {
+        "STT": 14,
+        "VOCABULARY": "cow",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/kaʊ/",
+        "MEANING": "con bò"
+      },
+      {
+        "STT": 15,
+        "VOCABULARY": "buffalo",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈbʌfələʊ/",
+        "MEANING": "con trâu"
+      },
+      {
+        "STT": 16,
+        "VOCABULARY": "horse",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/hɔːrs/",
+        "MEANING": "con ngựa"
+      },
+      {
+        "STT": 17,
+        "VOCABULARY": "goat",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ɡoʊt/",
+        "MEANING": "con dê"
+      },
+      {
+        "STT": 18,
+        "VOCABULARY": "sheep",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ʃiːp/",
+        "MEANING": "con cừu"
+      },
+      {
+        "STT": 19,
+        "VOCABULARY": "fish",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/fɪʃ/",
+        "MEANING": "con cá"
+      },
+      {
+        "STT": 20,
+        "VOCABULARY": "goldfish",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈɡoʊld.fɪʃ/",
+        "MEANING": "cá vàng"
+      },
+      {
+        "STT": 21,
+        "VOCABULARY": "crab",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/kræb/",
+        "MEANING": "con cua"
+      },
+      {
+        "STT": 22,
+        "VOCABULARY": "shrimp",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ʃrɪmp/",
+        "MEANING": "con tôm"
+      },
+      {
+        "STT": 23,
+        "VOCABULARY": "squid",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/skwɪd/",
+        "MEANING": "con mực"
+      },
+      {
+        "STT": 24,
+        "VOCABULARY": "octopus",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈɑːktəpʊs/",
+        "MEANING": "con bạch tuộc"
+      },
+      {
+        "STT": 25,
+        "VOCABULARY": "shark",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ʃɑːrk/",
+        "MEANING": "cá mập"
+      },
+      {
+        "STT": 26,
+        "VOCABULARY": "dolphin",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈdɑːlfɪn/",
+        "MEANING": "cá heo"
+      },
+      {
+        "STT": 27,
+        "VOCABULARY": "turtle",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈtɝː.t̬əl/",
+        "MEANING": "con rùa"
+      },
+      {
+        "STT": 28,
+        "VOCABULARY": "monkey",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈmʌŋ.ki/",
+        "MEANING": "con khỉ"
+      },
+      {
+        "STT": 29,
+        "VOCABULARY": "tiger",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈtaɪɡər/",
+        "MEANING": "con hổ"
+      },
+      {
+        "STT": 30,
+        "VOCABULARY": "lion",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈlaɪ.ən/",
+        "MEANING": "con sư tử"
+      },
+      {
+        "STT": 31,
+        "VOCABULARY": "leopard",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈlep.ɚd/",
+        "MEANING": "con báo"
+      },
+      {
+        "STT": 32,
+        "VOCABULARY": "elephant",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈel.ə.fənt/",
+        "MEANING": "con voi"
+      },
+      {
+        "STT": 33,
+        "VOCABULARY": "giraffe",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/dʒɪˈræf/",
+        "MEANING": "hươu cao cổ"
+      },
+      {
+        "STT": 34,
+        "VOCABULARY": "deer",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/dɪr/",
+        "MEANING": "con hươu, nai"
+      },
+      {
+        "STT": 35,
+        "VOCABULARY": "hippo",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈhɪpəʊ/",
+        "MEANING": "con hà mã"
+      },
+      {
+        "STT": 36,
+        "VOCABULARY": "rhino",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈraɪnəʊ/",
+        "MEANING": "con tê giác"
+      },
+      {
+        "STT": 37,
+        "VOCABULARY": "hedgehog",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈhedʒ.hɑːɡ/",
+        "MEANING": "con nhím"
+      },
+      {
+        "STT": 38,
+        "VOCABULARY": "squirrel",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈskwɝː.əl/",
+        "MEANING": "con sóc"
+      },
+      {
+        "STT": 39,
+        "VOCABULARY": "otter",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈɑː.t̬ɚ/",
+        "MEANING": "rái cá"
+      },
+      {
+        "STT": 40,
+        "VOCABULARY": "kangaroo",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˌkæŋ.ɡəˈruː/",
+        "MEANING": "chuột túi"
+      },
+      {
+        "STT": 41,
+        "VOCABULARY": "hamster",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈhæm.stɚ/",
+        "MEANING": "chuột đồng"
+      },
+      {
+        "STT": 42,
+        "VOCABULARY": "fox",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/fɑːks/",
+        "MEANING": "con cáo"
+      },
+      {
+        "STT": 43,
+        "VOCABULARY": "wolf",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/wʊlf/",
+        "MEANING": "con sói"
+      },
+      {
+        "STT": 44,
+        "VOCABULARY": "bear",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ber/",
+        "MEANING": "con gấu"
+      },
+      {
+        "STT": 45,
+        "VOCABULARY": "panda",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈpæn.də/",
+        "MEANING": "con gấu trúc"
+      },
+      {
+        "STT": 46,
+        "VOCABULARY": "ostrich",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈɑː.strɪtʃ/",
+        "MEANING": "đà điểu"
+      },
+      {
+        "STT": 47,
+        "VOCABULARY": "bee",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/biː/",
+        "MEANING": "ong"
+      },
+      {
+        "STT": 48,
+        "VOCABULARY": "butterfly",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈbʌtərflaɪ/",
+        "MEANING": "bướm"
+      },
+      {
+        "STT": 49,
+        "VOCABULARY": "worm",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/wɜːrm/",
+        "MEANING": "con sâu"
+      },
+      {
+        "STT": 50,
+        "VOCABULARY": "earthworm",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈɜːrθwɜːrm/",
+        "MEANING": "con giun"
+      },
+      {
+        "STT": 51,
+        "VOCABULARY": "eagle",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈiː.ɡəl/",
+        "MEANING": "đại bàng"
+      },
+      {
+        "STT": 52,
+        "VOCABULARY": "owl",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/aʊl/",
+        "MEANING": "con cú"
+      },
+      {
+        "STT": 53,
+        "VOCABULARY": "parrot",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈper.ət/",
+        "MEANING": "con vẹt"
+      },
+      {
+        "STT": 54,
+        "VOCABULARY": "peacock",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈpiː.kɑːk/",
+        "MEANING": "con công"
+      },
+      {
+        "STT": 55,
+        "VOCABULARY": "dove",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/dʌv/",
+        "MEANING": "chim bồ câu"
+      },
+      {
+        "STT": 56,
+        "VOCABULARY": "flamingo",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/fləˈmɪŋ.ɡoʊ/",
+        "MEANING": "chim hồng hạc"
+      },
+      {
+        "STT": 57,
+        "VOCABULARY": "crow",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/kroʊ/",
+        "MEANING": "con quạ"
+      },
+      {
+        "STT": 58,
+        "VOCABULARY": "hawk",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/hɑːk/",
+        "MEANING": "chim diều hâu"
+      },
+      {
+        "STT": 59,
+        "VOCABULARY": "penguin",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈpeŋ.ɡwɪn/",
+        "MEANING": "chim cánh cụt"
+      },
+      {
+        "STT": 60,
+        "VOCABULARY": "sparrow",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈsper.oʊ/",
+        "MEANING": "chim sẻ"
+      },
+      {
+        "STT": 61,
+        "VOCABULARY": "swallow",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈswɑː.loʊ/",
+        "MEANING": "chim nhạn, én"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "topicName": "COLOR - MÀU SẮC",
+    "originalFile": "05 COLOR - MÀU SẮC.json",
+    "words": [
+      {
+        "STT": 1,
+        "VOCABULARY": "white",
+        "WORD TYPE": "n, adj",
+        "PRONUNCIATION": "/waɪt/",
+        "MEANING": "màu trắng"
+      },
+      {
+        "STT": 2,
+        "VOCABULARY": "black",
+        "WORD TYPE": "n, adj",
+        "PRONUNCIATION": "/blæk/",
+        "MEANING": "màu đen"
+      },
+      {
+        "STT": 3,
+        "VOCABULARY": "red",
+        "WORD TYPE": "n, adj",
+        "PRONUNCIATION": "/red/",
+        "MEANING": "màu đỏ"
+      },
+      {
+        "STT": 4,
+        "VOCABULARY": "orange",
+        "WORD TYPE": "n, adj",
+        "PRONUNCIATION": "/ˈɔːr.ɪndʒ/",
+        "MEANING": "màu cam"
+      },
+      {
+        "STT": 5,
+        "VOCABULARY": "yellow",
+        "WORD TYPE": "n, adj",
+        "PRONUNCIATION": "/ˈjel.oʊ/",
+        "MEANING": "màu vàng"
+      },
+      {
+        "STT": 6,
+        "VOCABULARY": "green",
+        "WORD TYPE": "n, adj",
+        "PRONUNCIATION": "/ɡriːn/",
+        "MEANING": "xanh lá cây"
+      },
+      {
+        "STT": 7,
+        "VOCABULARY": "blue",
+        "WORD TYPE": "n, adj",
+        "PRONUNCIATION": "/bluː/",
+        "MEANING": "màu xanh lam, xanh nước biển"
+      },
+      {
+        "STT": 8,
+        "VOCABULARY": "violet",
+        "WORD TYPE": "n, adj",
+        "PRONUNCIATION": "/ˈvaiəlit/",
+        "MEANING": "màu tím"
+      },
+      {
+        "STT": 9,
+        "VOCABULARY": "purple",
+        "WORD TYPE": "n, adj",
+        "PRONUNCIATION": "/ˈpɝː.pəl/",
+        "MEANING": "màu tía"
+      },
+      {
+        "STT": 10,
+        "VOCABULARY": "beige",
+        "WORD TYPE": "n, adj",
+        "PRONUNCIATION": "/beɪʒ/",
+        "MEANING": "màu be"
+      },
+      {
+        "STT": 11,
+        "VOCABULARY": "pink",
+        "WORD TYPE": "n, adj",
+        "PRONUNCIATION": "/piŋk/",
+        "MEANING": "màu hồng"
+      },
+      {
+        "STT": 12,
+        "VOCABULARY": "gray",
+        "WORD TYPE": "n, adj",
+        "PRONUNCIATION": "/ɡreɪ/",
+        "MEANING": "màu xám"
+      },
+      {
+        "STT": 13,
+        "VOCABULARY": "brown",
+        "WORD TYPE": "n, adj",
+        "PRONUNCIATION": "/braʊn/",
+        "MEANING": "màu nâu"
+      },
+      {
+        "STT": 14,
+        "VOCABULARY": "silver",
+        "WORD TYPE": "n, adj",
+        "PRONUNCIATION": "/ˈsɪl.vɚ/",
+        "MEANING": "màu bạc"
+      },
+      {
+        "STT": 15,
+        "VOCABULARY": "indigo",
+        "WORD TYPE": "n, adj",
+        "PRONUNCIATION": "/ˈɪn.dɪ.ɡoʊ/",
+        "MEANING": "màu chàm"
+      },
+      {
+        "STT": 16,
+        "VOCABULARY": "navy",
+        "WORD TYPE": "blue) (n, adj",
+        "PRONUNCIATION": "/ˈneɪ·vi (ˈblu)/",
+        "MEANING": "màu xanh tím than"
+      },
+      {
+        "STT": 17,
+        "VOCABULARY": "ivory",
+        "WORD TYPE": "n, adj",
+        "PRONUNCIATION": "/ˈaɪ.vɚ.i/",
+        "MEANING": "màu trắng ngà"
+      },
+      {
+        "STT": 18,
+        "VOCABULARY": "coral",
+        "WORD TYPE": "n, adj",
+        "PRONUNCIATION": "/ˈkɔːr.əl/",
+        "MEANING": "màu hồng san hô"
+      },
+      {
+        "STT": 19,
+        "VOCABULARY": "teal",
+        "WORD TYPE": "n, adj",
+        "PRONUNCIATION": "/tiːl/",
+        "MEANING": "màu xanh mòng két (xanh lam pha xanh lục đậm)"
+      },
+      {
+        "STT": 20,
+        "VOCABULARY": "blond",
+        "WORD TYPE": "n, adj",
+        "PRONUNCIATION": "/blɑnd/",
+        "MEANING": "vàng hoe"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "topicName": "BODY PART - BỘ PHẬN CƠ THỂ",
+    "originalFile": "06 BODY PART - BỘ PHẬN CƠ THỂ.json",
+    "words": [
+      {
+        "STT": 1,
+        "VOCABULARY": "head",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/hed/",
+        "MEANING": "đầu"
+      },
+      {
+        "STT": 2,
+        "VOCABULARY": "hair",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/her/",
+        "MEANING": "tóc"
+      },
+      {
+        "STT": 3,
+        "VOCABULARY": "face",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/feɪs/",
+        "MEANING": "gương mặt"
+      },
+      {
+        "STT": 4,
+        "VOCABULARY": "forehead",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈfɑː.rɪd/",
+        "MEANING": "trán"
+      },
+      {
+        "STT": 5,
+        "VOCABULARY": "eyebrow",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈaɪ.braʊ/",
+        "MEANING": "lông mày"
+      },
+      {
+        "STT": 6,
+        "VOCABULARY": "eye",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/aɪ/",
+        "MEANING": "mắt"
+      },
+      {
+        "STT": 7,
+        "VOCABULARY": "eyelash",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈaɪ.læʃ/",
+        "MEANING": "lông mi"
+      },
+      {
+        "STT": 8,
+        "VOCABULARY": "nose",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/nəʊz/",
+        "MEANING": "mũi"
+      },
+      {
+        "STT": 9,
+        "VOCABULARY": "ear",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ɪr/",
+        "MEANING": "tai"
+      },
+      {
+        "STT": 10,
+        "VOCABULARY": "cheek",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/tʃiːk/",
+        "MEANING": "má"
+      },
+      {
+        "STT": 11,
+        "VOCABULARY": "beard",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/bɪrd/",
+        "MEANING": "râu"
+      },
+      {
+        "STT": 12,
+        "VOCABULARY": "mouth",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/maʊθ/",
+        "MEANING": "miệng"
+      },
+      {
+        "STT": 13,
+        "VOCABULARY": "lip",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/lɪp/",
+        "MEANING": "môi"
+      },
+      {
+        "STT": 14,
+        "VOCABULARY": "tooth",
+        "WORD TYPE": "teeth) (n",
+        "PRONUNCIATION": "/tuːθ/ /tiːθ/",
+        "MEANING": "răng"
+      },
+      {
+        "STT": 15,
+        "VOCABULARY": "gum",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ɡʌm/",
+        "MEANING": "nướu, lợi"
+      },
+      {
+        "STT": 16,
+        "VOCABULARY": "jaw",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/dʒɑː/",
+        "MEANING": "hàm, quai hàm"
+      },
+      {
+        "STT": 17,
+        "VOCABULARY": "chin",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/tʃɪn/",
+        "MEANING": "cằm"
+      },
+      {
+        "STT": 18,
+        "VOCABULARY": "neck",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/nek/",
+        "MEANING": "cổ"
+      },
+      {
+        "STT": 19,
+        "VOCABULARY": "chest",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/tʃest/",
+        "MEANING": "ngực (chung)"
+      },
+      {
+        "STT": 20,
+        "VOCABULARY": "back",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/bæk/",
+        "MEANING": "lưng"
+      },
+      {
+        "STT": 21,
+        "VOCABULARY": "belly",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈbeli/",
+        "MEANING": "bụng"
+      },
+      {
+        "STT": 22,
+        "VOCABULARY": "hip",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/hɪp/",
+        "MEANING": "hông"
+      },
+      {
+        "STT": 23,
+        "VOCABULARY": "arm",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ɑːrm/",
+        "MEANING": "cánh tay"
+      },
+      {
+        "STT": 24,
+        "VOCABULARY": "armpit",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈɑːrm.pɪt/",
+        "MEANING": "nách"
+      },
+      {
+        "STT": 25,
+        "VOCABULARY": "forearm",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈfɔːr.ɑːrm/",
+        "MEANING": "cẳng tay"
+      },
+      {
+        "STT": 26,
+        "VOCABULARY": "elbow",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈel.boʊ/",
+        "MEANING": "khuỷu tay"
+      },
+      {
+        "STT": 27,
+        "VOCABULARY": "finger",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈfɪŋ.ɡɚ/",
+        "MEANING": "ngón tay"
+      },
+      {
+        "STT": 28,
+        "VOCABULARY": "knuckle",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈnʌk.əl/",
+        "MEANING": "khớp đốt ngón tay (đặc biệt là đoạn nối giữa ngón tay và bàn tay)"
+      },
+      {
+        "STT": 29,
+        "VOCABULARY": "leg",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/leɡ/",
+        "MEANING": "chân"
+      },
+      {
+        "STT": 30,
+        "VOCABULARY": "knee",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/niː/",
+        "MEANING": "đầu gối"
+      },
+      {
+        "STT": 31,
+        "VOCABULARY": "ankle",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈæŋ.kəl/",
+        "MEANING": "mắt cá chân"
+      },
+      {
+        "STT": 32,
+        "VOCABULARY": "heel",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/hiːl/",
+        "MEANING": "gót chân"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "topicName": "SCHOOL - TRƯỜNG HỌC",
+    "originalFile": "07 SCHOOL - TRƯỜNG HỌC.json",
+    "words": [
+      {
+        "STT": 1,
+        "VOCABULARY": "school",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/sku:l/",
+        "MEANING": "trường học"
+      },
+      {
+        "STT": 2,
+        "VOCABULARY": "class",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/klɑ:s/",
+        "MEANING": "lớp học"
+      },
+      {
+        "STT": 3,
+        "VOCABULARY": "student",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/'stju:dnt/",
+        "MEANING": "học sinh, sinh viên"
+      },
+      {
+        "STT": 4,
+        "VOCABULARY": "pupil",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈpju:pl/",
+        "MEANING": "học sinh"
+      },
+      {
+        "STT": 5,
+        "VOCABULARY": "teacher",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈtiː.tʃɚ/",
+        "MEANING": "giáo viên"
+      },
+      {
+        "STT": 6,
+        "VOCABULARY": "principal",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈprɪntsɪpəl/",
+        "MEANING": "hiệu trưởng"
+      },
+      {
+        "STT": 7,
+        "VOCABULARY": "course",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/kɔːrs/",
+        "MEANING": "khóa học"
+      },
+      {
+        "STT": 8,
+        "VOCABULARY": "semester",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/sɪˈmestər/",
+        "MEANING": "học kì"
+      },
+      {
+        "STT": 9,
+        "VOCABULARY": "exersise",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈeksərsaɪz/",
+        "MEANING": "bài tập"
+      },
+      {
+        "STT": 10,
+        "VOCABULARY": "homework",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈhəʊmwɜːrk/",
+        "MEANING": "bài tập về nhà"
+      },
+      {
+        "STT": 11,
+        "VOCABULARY": "examination exam",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ɪɡˌzæmɪˈneɪʃn/ /ɪɡˈzæm/",
+        "MEANING": "bài kiểm tra"
+      },
+      {
+        "STT": 12,
+        "VOCABULARY": "grade",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ɡreɪd/",
+        "MEANING": "điểm số"
+      },
+      {
+        "STT": 13,
+        "VOCABULARY": "certificate",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/sərˈtɪfɪkət/",
+        "MEANING": "bằng cấp, giấy khen"
+      },
+      {
+        "STT": 14,
+        "VOCABULARY": "kindergarten",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈkɪn.dɚˌɡɑːr.tən/",
+        "MEANING": "lớp mẫu giáo, nhà trẻ"
+      },
+      {
+        "STT": 15,
+        "VOCABULARY": "primary school",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈpraɪ.mɚ.i ˌskuːl/",
+        "MEANING": "trường tiểu học, trường cấp 1"
+      },
+      {
+        "STT": 16,
+        "VOCABULARY": "secondary school",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈsek.ən.der.i ˌskuːl/",
+        "MEANING": "trường trung học, trường cấp 2"
+      },
+      {
+        "STT": 17,
+        "VOCABULARY": "high school",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈhaɪ skuːl/",
+        "MEANING": "trường cấp 3"
+      },
+      {
+        "STT": 18,
+        "VOCABULARY": "university",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˌjuːnɪˈvɜːrsəti/",
+        "MEANING": "trường đại học"
+      },
+      {
+        "STT": 19,
+        "VOCABULARY": "college",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈkɑːlɪdʒ/",
+        "MEANING": "trường đại học, cao đẳng"
+      },
+      {
+        "STT": 20,
+        "VOCABULARY": "private school",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˌpraɪ.vət ˈskuːl/",
+        "MEANING": "trường tư"
+      },
+      {
+        "STT": 21,
+        "VOCABULARY": "public school",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˌpʌblɪk ˈskuːl/",
+        "MEANING": "trường công"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "topicName": "CHARACTER - TÍNH CÁCH",
+    "originalFile": "08 CHARACTER - TÍNH CÁCH.json",
+    "words": [
+      {
+        "STT": 1,
+        "VOCABULARY": "active",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈæk.tɪv/",
+        "MEANING": "năng nổ, lanh lợi"
+      },
+      {
+        "STT": 2,
+        "VOCABULARY": "alert",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/əˈlɝːt/",
+        "MEANING": "tỉnh táo, cảnh giác"
+      },
+      {
+        "STT": 3,
+        "VOCABULARY": "ambitious",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/æmˈbɪʃ.əs/",
+        "MEANING": "tham vọng"
+      },
+      {
+        "STT": 4,
+        "VOCABULARY": "attentive",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/əˈten.t̬ɪv/",
+        "MEANING": "chăm chú, chú tâm"
+      },
+      {
+        "STT": 5,
+        "VOCABULARY": "bold",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/boʊld/",
+        "MEANING": "táo bạo, mạo hiểm"
+      },
+      {
+        "STT": 6,
+        "VOCABULARY": "brave",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/breɪv/",
+        "MEANING": "dũng cảm, gan dạ"
+      },
+      {
+        "STT": 7,
+        "VOCABULARY": "careful",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈker.fəl/",
+        "MEANING": "cẩn thận, thận trọng"
+      },
+      {
+        "STT": 8,
+        "VOCABULARY": "careless",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈker.ləs/",
+        "MEANING": "bất cẩn, cẩu thả"
+      },
+      {
+        "STT": 9,
+        "VOCABULARY": "cautious",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈkɑː.ʃəs/",
+        "MEANING": "thận trọng, cẩn thận"
+      },
+      {
+        "STT": 10,
+        "VOCABULARY": "conscientious",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˌkɑːn.ʃiˈen.ʃəs/",
+        "MEANING": "chu đáo, tỉ mỉ"
+      },
+      {
+        "STT": 11,
+        "VOCABULARY": "courageous",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/kəˈreɪ.dʒəs/",
+        "MEANING": "can đảm"
+      },
+      {
+        "STT": 12,
+        "VOCABULARY": "crafty",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈkræf.ti/",
+        "MEANING": "láu cá, xảo quyệt"
+      },
+      {
+        "STT": 13,
+        "VOCABULARY": "cunning",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈkʌn.ɪŋ/",
+        "MEANING": "xảo trá, khôn lỏi"
+      },
+      {
+        "STT": 14,
+        "VOCABULARY": "deceitful",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/dɪˈsiːt.fəl/",
+        "MEANING": "dối trá"
+      },
+      {
+        "STT": 15,
+        "VOCABULARY": "decent",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈdiː.sənt/",
+        "MEANING": "lịch sự, tao nhã"
+      },
+      {
+        "STT": 16,
+        "VOCABULARY": "dependable",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/dɪˈpen.də.bəl/",
+        "MEANING": "đáng tin cậy"
+      },
+      {
+        "STT": 17,
+        "VOCABULARY": "determined",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/dɪˈtɝː.mɪnd/",
+        "MEANING": "quyết tâm"
+      },
+      {
+        "STT": 18,
+        "VOCABULARY": "devoted",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/dɪˈvoʊ.t̬ɪd/",
+        "MEANING": "hết lòng, tận tâm, tận tụy"
+      },
+      {
+        "STT": 19,
+        "VOCABULARY": "diligent",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈdɪl.ə.dʒənt/",
+        "MEANING": "siêng năng, cần cù"
+      },
+      {
+        "STT": 20,
+        "VOCABULARY": "disciplined",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈdɪs.ə.plɪnd/",
+        "MEANING": "có tính kỷ luật"
+      },
+      {
+        "STT": 21,
+        "VOCABULARY": "dishonest",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/dɪˈsɑː.nɪst/",
+        "MEANING": "bất lương, dối trá"
+      },
+      {
+        "STT": 22,
+        "VOCABULARY": "disloyal",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˌdɪsˈlɔɪ.əl/",
+        "MEANING": "phản trắc, phản bội"
+      },
+      {
+        "STT": 23,
+        "VOCABULARY": "energetic",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˌen.ɚˈdʒet̬.ɪk/",
+        "MEANING": "giàu năng lượng"
+      },
+      {
+        "STT": 24,
+        "VOCABULARY": "fair",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/fer/",
+        "MEANING": "ngay thẳng"
+      },
+      {
+        "STT": 25,
+        "VOCABULARY": "faithful",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈfeɪθ.fəl/",
+        "MEANING": "trung thành, chung thủy"
+      },
+      {
+        "STT": 26,
+        "VOCABULARY": "fearless",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈfɪr.ləs/",
+        "MEANING": "bạo dạn"
+      },
+      {
+        "STT": 27,
+        "VOCABULARY": "forgetful",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/fɚˈɡet.fəl/",
+        "MEANING": "hay quên"
+      },
+      {
+        "STT": 28,
+        "VOCABULARY": "hard-headed",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˌhɑːrdˈhed.ɪd/",
+        "MEANING": "cứng đầu, ương ngạnh"
+      },
+      {
+        "STT": 29,
+        "VOCABULARY": "hardworking",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈhɑrdˈwɜr·kɪŋ/",
+        "MEANING": "chăm chỉ, chịu khó"
+      },
+      {
+        "STT": 30,
+        "VOCABULARY": "hardy",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈhɑːr.di/",
+        "MEANING": "táo bạo, gan dạ"
+      },
+      {
+        "STT": 31,
+        "VOCABULARY": "honest",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈɑː.nɪst/",
+        "MEANING": "chân thật, trung thành"
+      },
+      {
+        "STT": 32,
+        "VOCABULARY": "idle",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈaɪ.dəl/",
+        "MEANING": "nhàn rỗi, lười nhác"
+      },
+      {
+        "STT": 33,
+        "VOCABULARY": "immature",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˌɪm.əˈtʊr/",
+        "MEANING": "non nớt, thiếu chín chắn"
+      },
+      {
+        "STT": 34,
+        "VOCABULARY": "impartial",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ɪmˈpɑːr.ʃəl/",
+        "MEANING": "trung lập, ngay thẳng"
+      },
+      {
+        "STT": 35,
+        "VOCABULARY": "inattentive",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˌɪn.əˈten.t̬ɪv/",
+        "MEANING": "lơ đễnh, thiếu tập trung"
+      },
+      {
+        "STT": 36,
+        "VOCABULARY": "independent",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˌɪn.dɪˈpen.dənt/",
+        "MEANING": "tự lập"
+      },
+      {
+        "STT": 37,
+        "VOCABULARY": "inert",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˌɪnˈɝːt/",
+        "MEANING": "trì trệ, chậm chạp"
+      },
+      {
+        "STT": 38,
+        "VOCABULARY": "insightful",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈɪn.saɪt.fəl/",
+        "MEANING": "sâu sắc, sáng suốt"
+      },
+      {
+        "STT": 39,
+        "VOCABULARY": "insincere",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˌɪn.sɪnˈsɪr/",
+        "MEANING": "không thành thực, giả dối"
+      },
+      {
+        "STT": 40,
+        "VOCABULARY": "irrational",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ɪˈræʃ.ən.əl/",
+        "MEANING": "không hợp lý"
+      },
+      {
+        "STT": 41,
+        "VOCABULARY": "irresponsible",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˌɪr.əˈspɑːn.sə.bəl/",
+        "MEANING": "thiếu trách nhiệm"
+      },
+      {
+        "STT": 42,
+        "VOCABULARY": "lazy",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈleɪ.zi/",
+        "MEANING": "lười biếng"
+      },
+      {
+        "STT": 43,
+        "VOCABULARY": "level-headed",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˌlev.əlˈhed.ɪd/",
+        "MEANING": "bình tĩnh, điềm đạm"
+      },
+      {
+        "STT": 44,
+        "VOCABULARY": "loyal",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈlɔɪ.əl/",
+        "MEANING": "trung thành, trung kiên"
+      },
+      {
+        "STT": 45,
+        "VOCABULARY": "mature",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/məˈtʊr/",
+        "MEANING": "trưởng thành, chững chạc"
+      },
+      {
+        "STT": 46,
+        "VOCABULARY": "methodical",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/məˈθɑː.dɪ.kəl/",
+        "MEANING": "ngăn nắp, cẩn thận"
+      },
+      {
+        "STT": 47,
+        "VOCABULARY": "naive",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/naɪˈiːv/",
+        "MEANING": "ngây thơ"
+      },
+      {
+        "STT": 48,
+        "VOCABULARY": "objective",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/əbˈdʒek.tɪv/",
+        "MEANING": "khách quan"
+      },
+      {
+        "STT": 49,
+        "VOCABULARY": "observant",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/əbˈzɝː.vənt/",
+        "MEANING": "tinh ý, hay quan sát"
+      },
+      {
+        "STT": 50,
+        "VOCABULARY": "opinionated",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/əˈpɪn.jə.neɪ.t̬ɪd/",
+        "MEANING": "cứng đầu, ngoan cố"
+      },
+      {
+        "STT": 51,
+        "VOCABULARY": "organized",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈɔːr.ɡən.aɪzd/",
+        "MEANING": "có trật tự, ngăn nắp"
+      },
+      {
+        "STT": 52,
+        "VOCABULARY": "passive",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈpæs.ɪv/",
+        "MEANING": "nhiệt huyết"
+      },
+      {
+        "STT": 53,
+        "VOCABULARY": "perceptive",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/pɚˈsep.tɪv/",
+        "MEANING": "mẫn cảm, sâu sắc"
+      },
+      {
+        "STT": 54,
+        "VOCABULARY": "persevering",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˌpɝː.səˈvɪr.ɪŋ/",
+        "MEANING": "kiên nhẫn, bền bỉ"
+      },
+      {
+        "STT": 55,
+        "VOCABULARY": "practical",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈpræk.tɪ.kəl/",
+        "MEANING": "thực tế, thực tiễn"
+      },
+      {
+        "STT": 56,
+        "VOCABULARY": "prudent",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈpruː.dənt/",
+        "MEANING": "thận trọng, khôn ngoan"
+      },
+      {
+        "STT": 57,
+        "VOCABULARY": "quick",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/kwɪk/",
+        "MEANING": "nhanh nhẹn"
+      },
+      {
+        "STT": 58,
+        "VOCABULARY": "rational",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈræʃ.ən.əl/",
+        "MEANING": "có lý trí"
+      },
+      {
+        "STT": 59,
+        "VOCABULARY": "reasonable",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈriː.zən.ə.bəl/",
+        "MEANING": "biết điều"
+      },
+      {
+        "STT": 60,
+        "VOCABULARY": "reckless",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈrek.ləs/",
+        "MEANING": "liều lĩnh, táo bạo"
+      },
+      {
+        "STT": 61,
+        "VOCABULARY": "reliable",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/rɪˈlaɪ.ə.bəl/",
+        "MEANING": "đáng tin tưởng"
+      },
+      {
+        "STT": 62,
+        "VOCABULARY": "resolute",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈrez.ə.luːt/",
+        "MEANING": "cương quyết"
+      },
+      {
+        "STT": 63,
+        "VOCABULARY": "responsible",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/rɪˈspɑːn.sə.bəl/",
+        "MEANING": "có trách nhiệm"
+      },
+      {
+        "STT": 64,
+        "VOCABULARY": "scrupulous",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈskruː.pjə.ləs/",
+        "MEANING": "kĩ lưỡng, tỉ mỉ, thận trọng"
+      },
+      {
+        "STT": 65,
+        "VOCABULARY": "sensible",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈsen.sə.bəl/",
+        "MEANING": "khôn ngoan, có óc phán xét"
+      },
+      {
+        "STT": 66,
+        "VOCABULARY": "shallow",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈʃæl.oʊ/",
+        "MEANING": "nông cạn"
+      },
+      {
+        "STT": 67,
+        "VOCABULARY": "shrewd",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ʃruːd/",
+        "MEANING": "khôn ngoan"
+      },
+      {
+        "STT": 68,
+        "VOCABULARY": "sincere",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/sɪnˈsɪr/",
+        "MEANING": "chân thành"
+      },
+      {
+        "STT": 69,
+        "VOCABULARY": "slow",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/sloʊ/",
+        "MEANING": "chậm chạp"
+      },
+      {
+        "STT": 70,
+        "VOCABULARY": "sluggish",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈslʌɡ.ɪʃ/",
+        "MEANING": "uể oải, lờ đờ"
+      },
+      {
+        "STT": 71,
+        "VOCABULARY": "sly",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/slaɪ/",
+        "MEANING": "ranh mãnh, quỷ quyệt"
+      },
+      {
+        "STT": 72,
+        "VOCABULARY": "strong",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/strɑːŋ/",
+        "MEANING": "mạnh mẽ, đanh thép"
+      },
+      {
+        "STT": 73,
+        "VOCABULARY": "strong-minded",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˌstrɑːŋˈmaɪn.dɪd/",
+        "MEANING": "cứng cỏi, kiên quyết"
+      },
+      {
+        "STT": 74,
+        "VOCABULARY": "strong-willed",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˌstrɑːŋˈwɪld/",
+        "MEANING": "cứng cỏi"
+      },
+      {
+        "STT": 75,
+        "VOCABULARY": "stubborn",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈstʌb.ɚn/",
+        "MEANING": "bướng bỉnh, ngang ngạnh"
+      },
+      {
+        "STT": 76,
+        "VOCABULARY": "superficial",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˌsuː.pɚˈfɪʃ.əl/",
+        "MEANING": "hời hợt, nông cạn"
+      },
+      {
+        "STT": 77,
+        "VOCABULARY": "superstitious",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˌsuː.pɚˈstɪʃ.əs/",
+        "MEANING": "mê tín"
+      },
+      {
+        "STT": 78,
+        "VOCABULARY": "thorough",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈθɝː.ə/ /ˈθɝː.oʊ/",
+        "MEANING": "kỹ lưỡng, thấu đáo"
+      },
+      {
+        "STT": 79,
+        "VOCABULARY": "timid",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈtɪm.ɪd/",
+        "MEANING": "rụt rè, bẽn lẽn"
+      },
+      {
+        "STT": 80,
+        "VOCABULARY": "tough",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/tʌf/",
+        "MEANING": "cứng rắn"
+      },
+      {
+        "STT": 81,
+        "VOCABULARY": "treacherous",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈtretʃ.ɚ.əs/",
+        "MEANING": "bội bạc"
+      },
+      {
+        "STT": 82,
+        "VOCABULARY": "trustworthy",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈtrʌstˌwɝː.ði/",
+        "MEANING": "đáng tin"
+      },
+      {
+        "STT": 83,
+        "VOCABULARY": "truthful",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈtruːθ.fəl/",
+        "MEANING": "thật thà, chân thật"
+      },
+      {
+        "STT": 84,
+        "VOCABULARY": "unbiased",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ʌnˈbaɪəst/",
+        "MEANING": "không thiên vị"
+      },
+      {
+        "STT": 85,
+        "VOCABULARY": "unpredictable",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˌʌn.prɪˈdɪk.tə.bəl/",
+        "MEANING": "khó đoán, khôn lường"
+      },
+      {
+        "STT": 86,
+        "VOCABULARY": "unreasonable",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ʌnˈriː.zən.ə.bəl/",
+        "MEANING": "vô lý, quá đáng"
+      },
+      {
+        "STT": 87,
+        "VOCABULARY": "unreliable",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˌʌn.rɪˈlaɪə.bəl/",
+        "MEANING": "không đáng tin"
+      },
+      {
+        "STT": 88,
+        "VOCABULARY": "unscrupulous",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ʌnˈskruː.pjə.ləs/",
+        "MEANING": "cẩu thả"
+      },
+      {
+        "STT": 89,
+        "VOCABULARY": "vigorous",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈvɪɡ.ɚ.əs/",
+        "MEANING": "mạnh mẽ, sôi nổi"
+      },
+      {
+        "STT": 90,
+        "VOCABULARY": "weak",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/wiːk/",
+        "MEANING": "yếu đuối"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "topicName": "SCHOOL OBJECT - ĐỒ DÙNG HỌC TẬP",
+    "originalFile": "09 SCHOOL OBJECT - ĐỒ DÙNG HỌC TẬP.json",
+    "words": [
+      {
+        "STT": 1,
+        "VOCABULARY": "pen",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/pen/",
+        "MEANING": "bút mực"
+      },
+      {
+        "STT": 2,
+        "VOCABULARY": "pencil",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈpensl/",
+        "MEANING": "bút chì"
+      },
+      {
+        "STT": 3,
+        "VOCABULARY": "highlighter",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈhaɪˌlaɪ.t̬ɚ/",
+        "MEANING": "bút nhớ"
+      },
+      {
+        "STT": 4,
+        "VOCABULARY": "ruler",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈruːlər/",
+        "MEANING": "thước kẻ"
+      },
+      {
+        "STT": 5,
+        "VOCABULARY": "eraser",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ɪˈreɪ.sɚ/",
+        "MEANING": "tẩy, gôm"
+      },
+      {
+        "STT": 6,
+        "VOCABULARY": "pencil case",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈpensl keɪs/",
+        "MEANING": "hộp bút"
+      },
+      {
+        "STT": 7,
+        "VOCABULARY": "book",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/bʊk/",
+        "MEANING": "quyển sách"
+      },
+      {
+        "STT": 8,
+        "VOCABULARY": "notebook",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈnəʊtbʊk/",
+        "MEANING": "vở"
+      },
+      {
+        "STT": 9,
+        "VOCABULARY": "paper",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈpeɪ.pɚ/",
+        "MEANING": "giấy"
+      },
+      {
+        "STT": 10,
+        "VOCABULARY": "scissors",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈsɪz.ɚz/",
+        "MEANING": "kéo"
+      },
+      {
+        "STT": 11,
+        "VOCABULARY": "clock",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/klɑːk/",
+        "MEANING": "đồng hồ"
+      },
+      {
+        "STT": 12,
+        "VOCABULARY": "clip",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/klɪp/",
+        "MEANING": "kẹp ghim"
+      },
+      {
+        "STT": 13,
+        "VOCABULARY": "stapler",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈsteɪ.plɚ/",
+        "MEANING": "cái dập ghim"
+      },
+      {
+        "STT": 14,
+        "VOCABULARY": "pin",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/pɪn/",
+        "MEANING": "đinh ghim"
+      },
+      {
+        "STT": 15,
+        "VOCABULARY": "glue",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ɡluː/",
+        "MEANING": "hồ dán"
+      },
+      {
+        "STT": 16,
+        "VOCABULARY": "sticky tape",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈstɪki teɪp/",
+        "MEANING": "băng dính"
+      },
+      {
+        "STT": 17,
+        "VOCABULARY": "calculator",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈkæl.kjə.leɪ.t̬ɚ/",
+        "MEANING": "máy tính bỏ túi"
+      },
+      {
+        "STT": 18,
+        "VOCABULARY": "desk",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/desk/",
+        "MEANING": "bàn học"
+      },
+      {
+        "STT": 19,
+        "VOCABULARY": "chair",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/tʃer/",
+        "MEANING": "ghế"
+      },
+      {
+        "STT": 20,
+        "VOCABULARY": "blackboard",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈblæk.bɔːrd/",
+        "MEANING": "bảng đen"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "topicName": "NATURE - THIÊN NHIÊN",
+    "originalFile": "10 NATURE - THIÊN NHIÊN.json",
+    "words": [
+      {
+        "STT": 1,
+        "VOCABULARY": "forest",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈfɔːrɪst/",
+        "MEANING": "rừng"
+      },
+      {
+        "STT": 2,
+        "VOCABULARY": "rainforest",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈreɪnfɔːrɪst/",
+        "MEANING": "rừng mưa nhiệt đới"
+      },
+      {
+        "STT": 3,
+        "VOCABULARY": "mountain",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈmaʊn.tən/",
+        "MEANING": "núi, dãy núi"
+      },
+      {
+        "STT": 4,
+        "VOCABULARY": "highland",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈhaɪ.lənd/",
+        "MEANING": "cao nguyên"
+      },
+      {
+        "STT": 5,
+        "VOCABULARY": "hill",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/hɪl/",
+        "MEANING": "đồi"
+      },
+      {
+        "STT": 6,
+        "VOCABULARY": "valley",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈvæl.i/",
+        "MEANING": "thung lũng, châu thổ, lưu vực"
+      },
+      {
+        "STT": 7,
+        "VOCABULARY": "cave",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/keɪv/",
+        "MEANING": "hang động"
+      },
+      {
+        "STT": 8,
+        "VOCABULARY": "rock",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/rɑːk/",
+        "MEANING": "đá"
+      },
+      {
+        "STT": 9,
+        "VOCABULARY": "slope",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/sloʊp/",
+        "MEANING": "dốc"
+      },
+      {
+        "STT": 10,
+        "VOCABULARY": "volcano",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/vɑːlˈkeɪ.noʊ/",
+        "MEANING": "núi lửa"
+      },
+      {
+        "STT": 11,
+        "VOCABULARY": "eruption",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ɪˈrʌp.ʃən/",
+        "MEANING": "sự phun trào (núi lửa)"
+      },
+      {
+        "STT": 12,
+        "VOCABULARY": "waterfall",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈwɑː.t̬ɚ.fɑːl/",
+        "MEANING": "thác nước"
+      },
+      {
+        "STT": 13,
+        "VOCABULARY": "canyon",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈkænjən/",
+        "MEANING": "hẻm núi"
+      },
+      {
+        "STT": 14,
+        "VOCABULARY": "cliff",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/klɪf/",
+        "MEANING": "vách đá"
+      },
+      {
+        "STT": 15,
+        "VOCABULARY": "bush",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/bʊʃ/",
+        "MEANING": "bụi cây, bụi rậm"
+      },
+      {
+        "STT": 16,
+        "VOCABULARY": "desert",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈdez.ɚt/",
+        "MEANING": "sa mạc, hoang mạc"
+      },
+      {
+        "STT": 17,
+        "VOCABULARY": "oasis",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/əʊˈeɪsɪs/",
+        "MEANING": "ốc đảo"
+      },
+      {
+        "STT": 18,
+        "VOCABULARY": "savanna",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/səˈvæn.ə/",
+        "MEANING": "hoang mạc, thảo nguyên"
+      },
+      {
+        "STT": 19,
+        "VOCABULARY": "sand dune",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈsænd duːn/",
+        "MEANING": "đụn cát"
+      },
+      {
+        "STT": 20,
+        "VOCABULARY": "coal",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/koʊl/",
+        "MEANING": "than đá"
+      },
+      {
+        "STT": 21,
+        "VOCABULARY": "fossil",
+        "WORD TYPE": "n, adj",
+        "PRONUNCIATION": "/ˈfɑː.səl/",
+        "MEANING": "chất liệu hóa thạch; hóa thạch, hóa đá"
+      },
+      {
+        "STT": 22,
+        "VOCABULARY": "soil",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/sɔɪl/",
+        "MEANING": "đất trồng, đất dai"
+      },
+      {
+        "STT": 23,
+        "VOCABULARY": "pond",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/pɑːnd/",
+        "MEANING": "ao nước"
+      },
+      {
+        "STT": 24,
+        "VOCABULARY": "river",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈrɪv.ɚ/",
+        "MEANING": "dòng sông"
+      },
+      {
+        "STT": 25,
+        "VOCABULARY": "riverbank",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈrɪvəˌbæŋk/",
+        "MEANING": "bờ sông, bãi sông, vùng đất ven sông"
+      },
+      {
+        "STT": 26,
+        "VOCABULARY": "creek",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/kriːk/",
+        "MEANING": "lạch, nhánh sông, sông con"
+      },
+      {
+        "STT": 27,
+        "VOCABULARY": "sea",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/siː/",
+        "MEANING": "biển"
+      },
+      {
+        "STT": 28,
+        "VOCABULARY": "ocean",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈəʊʃn/",
+        "MEANING": "đại dương"
+      },
+      {
+        "STT": 29,
+        "VOCABULARY": "reef",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/riːf/",
+        "MEANING": "rặng đá (dưới biển)"
+      },
+      {
+        "STT": 30,
+        "VOCABULARY": "coral reef",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈkɔːrəl riːf/",
+        "MEANING": "rặng san hô"
+      },
+      {
+        "STT": 31,
+        "VOCABULARY": "beach",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/biːtʃ/",
+        "MEANING": "bãi biển"
+      },
+      {
+        "STT": 32,
+        "VOCABULARY": "bay",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/beɪ/",
+        "MEANING": "vịnh"
+      },
+      {
+        "STT": 33,
+        "VOCABULARY": "seashore",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈsiːʃɔːr/",
+        "MEANING": "bờ biển"
+      },
+      {
+        "STT": 34,
+        "VOCABULARY": "meadow",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈmed.oʊ/",
+        "MEANING": "đồng cỏ, bãi cỏ"
+      },
+      {
+        "STT": 35,
+        "VOCABULARY": "mud",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/mʌd/",
+        "MEANING": "bùn"
+      },
+      {
+        "STT": 36,
+        "VOCABULARY": "peninsula",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/pəˈnɪn.sə.lə/",
+        "MEANING": "bán đảo"
+      },
+      {
+        "STT": 37,
+        "VOCABULARY": "island",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈaɪlənd/",
+        "MEANING": "đảo"
+      },
+      {
+        "STT": 38,
+        "VOCABULARY": "continent",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈkɑːntɪnənt/",
+        "MEANING": "châu lục"
+      },
+      {
+        "STT": 39,
+        "VOCABULARY": "environment",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ɪnˈvaɪ.rən.mənt/",
+        "MEANING": "môi trường"
+      },
+      {
+        "STT": 40,
+        "VOCABULARY": "planet",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈplæn.ɪt/",
+        "MEANING": "hành tinh"
+      },
+      {
+        "STT": 41,
+        "VOCABULARY": "scenery",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈsiː.nɚ.i/",
+        "MEANING": "phong cảnh, cảnh vật"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "topicName": "LEISURE - GIẢI TRÍ",
+    "originalFile": "11 LEISURE - GIẢI TRÍ.json",
+    "words": [
+      {
+        "STT": 1,
+        "VOCABULARY": "activity",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ækˈtɪv.ə.t̬i/",
+        "MEANING": "hoạt động"
+      },
+      {
+        "STT": 2,
+        "VOCABULARY": "art gallery",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈɑːrt ˌɡæl.ɚ.i/",
+        "MEANING": "phòng trưng bày tranh"
+      },
+      {
+        "STT": 3,
+        "VOCABULARY": "exhibition",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˌek.səˈbɪʃ.ən/",
+        "MEANING": "buổi triển lãm, trưng bày"
+      },
+      {
+        "STT": 4,
+        "VOCABULARY": "museum",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/mjuːˈziː.əm/",
+        "MEANING": "bảo tàng"
+      },
+      {
+        "STT": 5,
+        "VOCABULARY": "concert",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈkɑːn.sɚt/",
+        "MEANING": "buổi hòa nhạc"
+      },
+      {
+        "STT": 6,
+        "VOCABULARY": "ballet",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/bælˈeɪ/",
+        "MEANING": "ba lê, kịch múa"
+      },
+      {
+        "STT": 7,
+        "VOCABULARY": "opera",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈɑː.pɚ.ə/",
+        "MEANING": "nhạc kịch"
+      },
+      {
+        "STT": 8,
+        "VOCABULARY": "bar",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/bɑːr/",
+        "MEANING": "quán rượu, quầy bán rượu"
+      },
+      {
+        "STT": 9,
+        "VOCABULARY": "pub",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/pʌb/",
+        "MEANING": "nơi phục vụ đồ uống có cồn"
+      },
+      {
+        "STT": 10,
+        "VOCABULARY": "nightclub",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈnaɪt.klʌb/",
+        "MEANING": "hộp đêm"
+      },
+      {
+        "STT": 11,
+        "VOCABULARY": "restaurant",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈres.tə.rɑːnt/",
+        "MEANING": "nhà hàng ăn uống"
+      },
+      {
+        "STT": 12,
+        "VOCABULARY": "cafè",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/kæfˈeɪ/",
+        "MEANING": "quán cà phê"
+      },
+      {
+        "STT": 13,
+        "VOCABULARY": "film",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/fɪlm/",
+        "MEANING": "phim, phim ảnh"
+      },
+      {
+        "STT": 14,
+        "VOCABULARY": "cinema",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈsɪn.ə.mə/",
+        "MEANING": "rạp chiếu phim"
+      },
+      {
+        "STT": 15,
+        "VOCABULARY": "theater",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈθiː.ə.t̬ɚ/",
+        "MEANING": "nhà hát, rạp hát"
+      },
+      {
+        "STT": 16,
+        "VOCABULARY": "circus",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈsɝː.kəs/",
+        "MEANING": "rạp xiếc"
+      },
+      {
+        "STT": 17,
+        "VOCABULARY": "cosplay",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈkɑːz.pleɪ/",
+        "MEANING": "trò chơi hóa trang"
+      },
+      {
+        "STT": 18,
+        "VOCABULARY": "stadium",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈsteɪ.di.əm/",
+        "MEANING": "sân vận động"
+      },
+      {
+        "STT": 19,
+        "VOCABULARY": "zoo",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/zuː/",
+        "MEANING": "sở thú"
+      },
+      {
+        "STT": 20,
+        "VOCABULARY": "park",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/pɑːrk/",
+        "MEANING": "công viên"
+      },
+      {
+        "STT": 21,
+        "VOCABULARY": "handcraft",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈhænd.kræft/",
+        "MEANING": "nghề thủ công, hoạt động thủ công"
+      },
+      {
+        "STT": 22,
+        "VOCABULARY": "leisure centre",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈliː.ʒɚ ˌsen.t̬ɚ/",
+        "MEANING": "khu vui chơi, trung tâm giải trí"
+      },
+      {
+        "STT": 23,
+        "VOCABULARY": "bowling",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈboʊ.lɪŋ/",
+        "MEANING": "trò chơi lăn bóng, bowling"
+      },
+      {
+        "STT": 24,
+        "VOCABULARY": "monopoly",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/məˈnɑː.pəl.i/",
+        "MEANING": "trò chơi cờ tỷ phú"
+      },
+      {
+        "STT": 25,
+        "VOCABULARY": "puzzle",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈpʌz.əl/",
+        "MEANING": "trò chơi xếp hình"
+      },
+      {
+        "STT": 26,
+        "VOCABULARY": "quiz",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/kwɪz/",
+        "MEANING": "trò chơi đố vui"
+      },
+      {
+        "STT": 27,
+        "VOCABULARY": "library",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈlaɪbreri/",
+        "MEANING": "thư viện"
+      },
+      {
+        "STT": 28,
+        "VOCABULARY": "fishing",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈfɪʃɪŋ/",
+        "MEANING": "câu cá"
+      },
+      {
+        "STT": 29,
+        "VOCABULARY": "gardening",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈɡɑːdnɪŋ/",
+        "MEANING": "làm vườn"
+      },
+      {
+        "STT": 30,
+        "VOCABULARY": "hiking",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈhaɪkɪŋ/",
+        "MEANING": "leo núi"
+      },
+      {
+        "STT": 31,
+        "VOCABULARY": "reading",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈriːdɪŋ/",
+        "MEANING": "đọc sách"
+      },
+      {
+        "STT": 32,
+        "VOCABULARY": "music",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈmjuːzɪk/",
+        "MEANING": "âm nhạc"
+      },
+      {
+        "STT": 33,
+        "VOCABULARY": "poetry",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈpəʊətri/",
+        "MEANING": "thơ ca"
+      },
+      {
+        "STT": 34,
+        "VOCABULARY": "shopping",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈʃɑːpɪŋ/",
+        "MEANING": "mua sắm"
+      },
+      {
+        "STT": 35,
+        "VOCABULARY": "painting",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈpeɪntɪŋ/",
+        "MEANING": "vẽ tranh"
+      },
+      {
+        "STT": 36,
+        "VOCABULARY": "photography",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/fəˈtɑːɡrəfi/",
+        "MEANING": "nhiếp ảnh"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "topicName": "HOUSE - NHÀ CỬA",
+    "originalFile": "12 HOUSE - NHÀ CỬA.json",
+    "words": [
+      {
+        "STT": 1,
+        "VOCABULARY": "living room",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈlɪvɪŋ ruːm/",
+        "MEANING": "phòng khách"
+      },
+      {
+        "STT": 2,
+        "VOCABULARY": "dining room",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈdaɪnɪŋ ruːm/",
+        "MEANING": "phòng ăn"
+      },
+      {
+        "STT": 3,
+        "VOCABULARY": "kitchen",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈkɪtʃ.ən/",
+        "MEANING": "nhà bếp"
+      },
+      {
+        "STT": 4,
+        "VOCABULARY": "bedroom",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈbed.ruːm/",
+        "MEANING": "phòng ngủ"
+      },
+      {
+        "STT": 5,
+        "VOCABULARY": "bathroom",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈbæθ.ru:m/",
+        "MEANING": "phòng tắm"
+      },
+      {
+        "STT": 6,
+        "VOCABULARY": "garage",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ɡəˈrɑːʒ/",
+        "MEANING": "ga ra, nhà để xe"
+      },
+      {
+        "STT": 7,
+        "VOCABULARY": "attic",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈæt̬.ɪk/",
+        "MEANING": "tum, gác xép"
+      },
+      {
+        "STT": 8,
+        "VOCABULARY": "basement",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈbeɪs.mənt/",
+        "MEANING": "tầng hầm"
+      },
+      {
+        "STT": 9,
+        "VOCABULARY": "roof",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ruːf/",
+        "MEANING": "mái nhà"
+      },
+      {
+        "STT": 10,
+        "VOCABULARY": "entrance",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈen.trəns",
+        "MEANING": "lối vào, cổng vào"
+      },
+      {
+        "STT": 11,
+        "VOCABULARY": "patio",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈpæt̬.i.oʊ/",
+        "MEANING": "hiên, sân hè"
+      },
+      {
+        "STT": 12,
+        "VOCABULARY": "balcony",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈbæl.kə.ni/",
+        "MEANING": "ban công"
+      },
+      {
+        "STT": 13,
+        "VOCABULARY": "floor",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/flɔːr/",
+        "MEANING": "sàn nhà"
+      },
+      {
+        "STT": 14,
+        "VOCABULARY": "wall",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/wɔːl/",
+        "MEANING": "tường"
+      },
+      {
+        "STT": 15,
+        "VOCABULARY": "ceiling",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈsiːlɪŋ/",
+        "MEANING": "trần nhà"
+      },
+      {
+        "STT": 16,
+        "VOCABULARY": "door",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/dɔːr/",
+        "MEANING": "cửa ra vào"
+      },
+      {
+        "STT": 17,
+        "VOCABULARY": "window",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈwɪn.doʊ/",
+        "MEANING": "cửa sổ"
+      },
+      {
+        "STT": 18,
+        "VOCABULARY": "curtain",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈkɜːrtn/",
+        "MEANING": "rèm cửa"
+      },
+      {
+        "STT": 19,
+        "VOCABULARY": "armchair",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈɑːrm.tʃer/",
+        "MEANING": "ghế bành, ghế có tựa tay"
+      },
+      {
+        "STT": 20,
+        "VOCABULARY": "couch",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/kaʊtʃ/",
+        "MEANING": "ghế dài, trường kỷ, đi văng"
+      },
+      {
+        "STT": 21,
+        "VOCABULARY": "table",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈteɪbl/",
+        "MEANING": "cái bàn"
+      },
+      {
+        "STT": 22,
+        "VOCABULARY": "lamp",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/læmp/",
+        "MEANING": "cái đèn"
+      },
+      {
+        "STT": 23,
+        "VOCABULARY": "fan",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/fæn/",
+        "MEANING": "cái quạt"
+      },
+      {
+        "STT": 24,
+        "VOCABULARY": "air conditioner",
+        "WORD TYPE": "AC) (n",
+        "PRONUNCIATION": "/ˈer kəndɪʃənər/",
+        "MEANING": "điều hòa nhiệt độ"
+      },
+      {
+        "STT": 25,
+        "VOCABULARY": "television",
+        "WORD TYPE": "TV) (n",
+        "PRONUNCIATION": "/ˈtelɪvɪʒn/",
+        "MEANING": "ti vi"
+      },
+      {
+        "STT": 26,
+        "VOCABULARY": "bookshelf",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈbʊkʃelf/",
+        "MEANING": "kệ sách"
+      },
+      {
+        "STT": 27,
+        "VOCABULARY": "rug",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/rʌɡ/",
+        "MEANING": "thảm trải sàn"
+      },
+      {
+        "STT": 28,
+        "VOCABULARY": "cupboard",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈkʌbərd/",
+        "MEANING": "tủ bát"
+      },
+      {
+        "STT": 29,
+        "VOCABULARY": "refrigerator",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/rɪˈfrɪdʒəreɪtər/",
+        "MEANING": "tủ lạnh"
+      },
+      {
+        "STT": 30,
+        "VOCABULARY": "stove",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/stoʊv/",
+        "MEANING": "bếp lò"
+      },
+      {
+        "STT": 31,
+        "VOCABULARY": "oven",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈʌv.ən/",
+        "MEANING": "lò nướng"
+      },
+      {
+        "STT": 32,
+        "VOCABULARY": "microwave",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈmaɪkrəweɪv/",
+        "MEANING": "lò vi sóng"
+      },
+      {
+        "STT": 33,
+        "VOCABULARY": "cooker",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈkʊkər/",
+        "MEANING": "nồi cơm điện"
+      },
+      {
+        "STT": 34,
+        "VOCABULARY": "blender",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈblendər/",
+        "MEANING": "máy xay"
+      },
+      {
+        "STT": 35,
+        "VOCABULARY": "kettle",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈket̬.əl/",
+        "MEANING": "ấm đun nước"
+      },
+      {
+        "STT": 36,
+        "VOCABULARY": "tablecloth",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈteɪblklɔːθ/",
+        "MEANING": "khăn trải bàn"
+      },
+      {
+        "STT": 37,
+        "VOCABULARY": "bed",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/bed/",
+        "MEANING": "giường"
+      },
+      {
+        "STT": 38,
+        "VOCABULARY": "mattress",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈmætrəs/",
+        "MEANING": "đệm"
+      },
+      {
+        "STT": 39,
+        "VOCABULARY": "blanket",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈblæŋkɪt/",
+        "MEANING": "chăn"
+      },
+      {
+        "STT": 40,
+        "VOCABULARY": "pillow",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈpɪl.oʊ/",
+        "MEANING": "gối"
+      },
+      {
+        "STT": 41,
+        "VOCABULARY": "wardrobe",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈwɔːr.droʊb/",
+        "MEANING": "tủ quần áo"
+      },
+      {
+        "STT": 42,
+        "VOCABULARY": "nightstand",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈnaɪtstænd/",
+        "MEANING": "tủ đầu giường"
+      },
+      {
+        "STT": 43,
+        "VOCABULARY": "hairdryer",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈherdraɪər/",
+        "MEANING": "máy sấy tóc"
+      },
+      {
+        "STT": 44,
+        "VOCABULARY": "photo frame",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈfəʊtəʊ freɪm/",
+        "MEANING": "khung ảnh"
+      },
+      {
+        "STT": 45,
+        "VOCABULARY": "plant pot",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈplænt pɑːt/",
+        "MEANING": "chậu cây"
+      },
+      {
+        "STT": 46,
+        "VOCABULARY": "vase",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/veɪs/",
+        "MEANING": "lọ hoa"
+      },
+      {
+        "STT": 47,
+        "VOCABULARY": "dressing table",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈdresɪŋ teɪbl/",
+        "MEANING": "bàn trang điểm"
+      },
+      {
+        "STT": 48,
+        "VOCABULARY": "sink",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/sɪŋk/",
+        "MEANING": "bồn rửa, chậu rửa mặt"
+      },
+      {
+        "STT": 49,
+        "VOCABULARY": "mirror",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈmɪrər/",
+        "MEANING": "gương"
+      },
+      {
+        "STT": 50,
+        "VOCABULARY": "shower",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈʃaʊ.ɚ/",
+        "MEANING": "vòi hoa sen"
+      },
+      {
+        "STT": 51,
+        "VOCABULARY": "toilet",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈtɔɪ.lət/",
+        "MEANING": "bồn cầu"
+      },
+      {
+        "STT": 52,
+        "VOCABULARY": "bathtub",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈbæθ.tʌb/",
+        "MEANING": "bồn tắm"
+      },
+      {
+        "STT": 53,
+        "VOCABULARY": "towel",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈtaʊəl/",
+        "MEANING": "khăn"
+      },
+      {
+        "STT": 54,
+        "VOCABULARY": "broom",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/bruːm/",
+        "MEANING": "chổi quét"
+      },
+      {
+        "STT": 55,
+        "VOCABULARY": "mop",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/mɑːp/",
+        "MEANING": "chổi lau nhà"
+      },
+      {
+        "STT": 56,
+        "VOCABULARY": "dustpan",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈdʌst.pæn/",
+        "MEANING": "xẻng hót rác"
+      },
+      {
+        "STT": 57,
+        "VOCABULARY": "bucket",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈbʌk.ɪt/",
+        "MEANING": "xô"
+      },
+      {
+        "STT": 58,
+        "VOCABULARY": "trash can",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈtræʃ ˌkæn/",
+        "MEANING": "thùng rác"
+      },
+      {
+        "STT": 59,
+        "VOCABULARY": "washing machine",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈwɑː.ʃɪŋ məˌʃiːn/",
+        "MEANING": "máy giặt"
+      },
+      {
+        "STT": 60,
+        "VOCABULARY": "laundry basket",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈlɑːn.dri ˌbæs.kɪt/",
+        "MEANING": "giỏ đựng quần áo"
+      },
+      {
+        "STT": 61,
+        "VOCABULARY": "hanger",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈhæŋər/",
+        "MEANING": "móc treo quần áo"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "topicName": "VEGETABLE - RAU CỦ",
+    "originalFile": "13 VEGETABLE - RAU CỦ.json",
+    "words": [
+      {
+        "STT": 1,
+        "VOCABULARY": "bean",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/biːn/",
+        "MEANING": "hạt đậu"
+      },
+      {
+        "STT": 2,
+        "VOCABULARY": "pea",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/piː/",
+        "MEANING": "đậu Hà Lan"
+      },
+      {
+        "STT": 3,
+        "VOCABULARY": "cabbage",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈkæb.ɪdʒ/",
+        "MEANING": "bắp cải"
+      },
+      {
+        "STT": 4,
+        "VOCABULARY": "carrot",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈker.ət/",
+        "MEANING": "củ cà rốt"
+      },
+      {
+        "STT": 5,
+        "VOCABULARY": "corn",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/kɔːrn/",
+        "MEANING": "ngô, bắp"
+      },
+      {
+        "STT": 6,
+        "VOCABULARY": "cucumber",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈkjuː.kʌm.bɚ/",
+        "MEANING": "dưa chuột"
+      },
+      {
+        "STT": 7,
+        "VOCABULARY": "tomato",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/təˈmeɪ.t̬oʊ/",
+        "MEANING": "quả cà chua"
+      },
+      {
+        "STT": 8,
+        "VOCABULARY": "garlic",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈɡɑːr.lɪk/",
+        "MEANING": "tỏi"
+      },
+      {
+        "STT": 9,
+        "VOCABULARY": "onion",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈʌn.jən/",
+        "MEANING": "củ hành"
+      },
+      {
+        "STT": 10,
+        "VOCABULARY": "spring onion",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˌsprɪŋ ˈʌn.jən/",
+        "MEANING": "hành lá"
+      },
+      {
+        "STT": 11,
+        "VOCABULARY": "ginger",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈdʒɪn.dʒɚ/",
+        "MEANING": "củ gừng"
+      },
+      {
+        "STT": 12,
+        "VOCABULARY": "turmeric",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈtɜːrmərɪk/",
+        "MEANING": "củ nghệ"
+      },
+      {
+        "STT": 13,
+        "VOCABULARY": "potato",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/pəˈteɪ.t̬oʊ/",
+        "MEANING": "khoai tây"
+      },
+      {
+        "STT": 14,
+        "VOCABULARY": "sweet potato",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˌswiːt pəˈteɪ.t̬oʊ/",
+        "MEANING": "khoai lang"
+      },
+      {
+        "STT": 15,
+        "VOCABULARY": "pumpkin",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈpʌmp.kɪn/",
+        "MEANING": "bí ngô, bí đỏ"
+      },
+      {
+        "STT": 16,
+        "VOCABULARY": "asparagus",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/əˈsper.ə.ɡəs/",
+        "MEANING": "măng tây"
+      },
+      {
+        "STT": 17,
+        "VOCABULARY": "turnip",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈtɝː.nɪp/",
+        "MEANING": "củ cải trắng"
+      },
+      {
+        "STT": 18,
+        "VOCABULARY": "beet",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/biːt/",
+        "MEANING": "củ cải đường, củ dền"
+      },
+      {
+        "STT": 19,
+        "VOCABULARY": "cauliflower",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈkɑː.ləˌflaʊ.ɚ/",
+        "MEANING": "súp lơ"
+      },
+      {
+        "STT": 20,
+        "VOCABULARY": "broccoli",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈbrɑː.kəl.i/",
+        "MEANING": "bông cải xanh"
+      },
+      {
+        "STT": 21,
+        "VOCABULARY": "eggplant",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈeɡ.plænt/",
+        "MEANING": "cà tím"
+      },
+      {
+        "STT": 22,
+        "VOCABULARY": "celery",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈsel.ɚ.i/",
+        "MEANING": "cần tây"
+      },
+      {
+        "STT": 23,
+        "VOCABULARY": "leek",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/liːk/",
+        "MEANING": "tỏi tây"
+      },
+      {
+        "STT": 24,
+        "VOCABULARY": "lettuce",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈlet̬.ɪs/",
+        "MEANING": "rau diếp"
+      },
+      {
+        "STT": 25,
+        "VOCABULARY": "mushroom",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈmʌʃ.ruːm/",
+        "MEANING": "nấm"
+      },
+      {
+        "STT": 26,
+        "VOCABULARY": "chili",
+        "WORD TYPE": "pepper) (n",
+        "PRONUNCIATION": "/ˈtʃɪl·i (ˌpep·ər)/",
+        "MEANING": "ớt cay"
+      },
+      {
+        "STT": 27,
+        "VOCABULARY": "bell pepper",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈbel pepər/",
+        "MEANING": "ớt chuông"
+      },
+      {
+        "STT": 28,
+        "VOCABULARY": "spinach",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈspɪn.ɪtʃ/",
+        "MEANING": "rau chân vịt (bina)"
+      },
+      {
+        "STT": 29,
+        "VOCABULARY": "herb",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/hɜːb/",
+        "MEANING": "rau thơm (nói chung)"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "topicName": "DRINK - ĐỒ UỐNG",
+    "originalFile": "14 DRINK - ĐỒ UỐNG.json",
+    "words": [
+      {
+        "STT": 1,
+        "VOCABULARY": "water",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈwɔːtər/",
+        "MEANING": "nước"
+      },
+      {
+        "STT": 2,
+        "VOCABULARY": "lemonade",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˌleməˈneɪd/",
+        "MEANING": "nước chanh"
+      },
+      {
+        "STT": 3,
+        "VOCABULARY": "juice",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/dʒuːs/",
+        "MEANING": "nước ép hoa quả"
+      },
+      {
+        "STT": 4,
+        "VOCABULARY": "smoothie",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈsmuːði/",
+        "MEANING": "sinh tố"
+      },
+      {
+        "STT": 5,
+        "VOCABULARY": "coffee",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈkɑː.fi/",
+        "MEANING": "cà phê"
+      },
+      {
+        "STT": 6,
+        "VOCABULARY": "tea",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈtiː/",
+        "MEANING": "trà"
+      },
+      {
+        "STT": 7,
+        "VOCABULARY": "milk",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/mɪlk/",
+        "MEANING": "sữa"
+      },
+      {
+        "STT": 8,
+        "VOCABULARY": "bubble tea",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˌbʌbl ˈtiː/",
+        "MEANING": "trà sữa trân châu"
+      },
+      {
+        "STT": 9,
+        "VOCABULARY": "hot chocolate",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˌhɑːt ˈtʃɑːk.lət/",
+        "MEANING": "sô cô la nóng"
+      },
+      {
+        "STT": 10,
+        "VOCABULARY": "beer",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/bɪr/",
+        "MEANING": "bia"
+      },
+      {
+        "STT": 11,
+        "VOCABULARY": "wine",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/waɪn/",
+        "MEANING": "rượu"
+      },
+      {
+        "STT": 12,
+        "VOCABULARY": "yogurt",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈjoʊ.ɡɚt/",
+        "MEANING": "sữa chua"
+      },
+      {
+        "STT": 13,
+        "VOCABULARY": "ice cream",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈaɪs ˌkriːm/",
+        "MEANING": "kem"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "topicName": "FOOD - ĐỒ ĂN",
+    "originalFile": "15 FOOD - ĐỒ ĂN.json",
+    "words": [
+      {
+        "STT": 1,
+        "VOCABULARY": "soup",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/suːp/",
+        "MEANING": "món súp, món canh"
+      },
+      {
+        "STT": 2,
+        "VOCABULARY": "salad",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈsæl.əd/",
+        "MEANING": "rau trộn, nộm rau"
+      },
+      {
+        "STT": 3,
+        "VOCABULARY": "bread",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈbred/",
+        "MEANING": "bánh mì"
+      },
+      {
+        "STT": 4,
+        "VOCABULARY": "sausage",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈsɑː.sɪdʒ/",
+        "MEANING": "xúc xích"
+      },
+      {
+        "STT": 5,
+        "VOCABULARY": "hot dog",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈhɑːt ˌdɑːɡ/",
+        "MEANING": "bánh mỳ kẹp xúc xích"
+      },
+      {
+        "STT": 6,
+        "VOCABULARY": "bacon",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈbeɪ.kən/",
+        "MEANING": "thịt xông khói"
+      },
+      {
+        "STT": 7,
+        "VOCABULARY": "ham",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/hæm/",
+        "MEANING": "thịt giăm bông"
+      },
+      {
+        "STT": 8,
+        "VOCABULARY": "egg",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/eɡ/",
+        "MEANING": "trứng"
+      },
+      {
+        "STT": 9,
+        "VOCABULARY": "pork",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/pɔːrk/",
+        "MEANING": "thịt lợn"
+      },
+      {
+        "STT": 10,
+        "VOCABULARY": "beef",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/biːf/",
+        "MEANING": "thịt bò"
+      },
+      {
+        "STT": 11,
+        "VOCABULARY": "chicken",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈtʃɪkɪn/",
+        "MEANING": "thịt gà"
+      },
+      {
+        "STT": 12,
+        "VOCABULARY": "duck",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/dʌk/",
+        "MEANING": "thịt vịt"
+      },
+      {
+        "STT": 13,
+        "VOCABULARY": "lamb",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/læm/",
+        "MEANING": "thịt cừu"
+      },
+      {
+        "STT": 14,
+        "VOCABULARY": "ribs",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/rɪbs/",
+        "MEANING": "sườn"
+      },
+      {
+        "STT": 15,
+        "VOCABULARY": "seafood",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈsiːfuːd/",
+        "MEANING": "hải sản"
+      },
+      {
+        "STT": 16,
+        "VOCABULARY": "salmon",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈsæmən/",
+        "MEANING": "cá hồi"
+      },
+      {
+        "STT": 17,
+        "VOCABULARY": "tuna",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈtuːnə/",
+        "MEANING": "cá ngừ"
+      },
+      {
+        "STT": 18,
+        "VOCABULARY": "shrimp",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ʃrɪmp/",
+        "MEANING": "tôm"
+      },
+      {
+        "STT": 19,
+        "VOCABULARY": "pizza",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈpiːt.sə/",
+        "MEANING": "bánh pizza"
+      },
+      {
+        "STT": 20,
+        "VOCABULARY": "beefsteak",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈbiːfsteɪk/",
+        "MEANING": "bít tết"
+      },
+      {
+        "STT": 21,
+        "VOCABULARY": "French fries",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈfrentʃ ˈfrɑɪz/",
+        "MEANING": "khoai tây chiên"
+      },
+      {
+        "STT": 22,
+        "VOCABULARY": "hamburger",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈhæmˌbɝː.ɡɚ/",
+        "MEANING": "hăm bơ gơ"
+      },
+      {
+        "STT": 23,
+        "VOCABULARY": "chicken nugget",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈtʃɪk.ɪn ˈnʌɡ.ɪt/",
+        "MEANING": "gà viên chiên"
+      },
+      {
+        "STT": 24,
+        "VOCABULARY": "sandwich",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈsæn.wɪtʃ/",
+        "MEANING": "bánh mỳ kẹp"
+      },
+      {
+        "STT": 25,
+        "VOCABULARY": "pancake",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈpæn.keɪk/",
+        "MEANING": "bánh kếp, bánh xèo"
+      },
+      {
+        "STT": 26,
+        "VOCABULARY": "noodle",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈnuːdl/",
+        "MEANING": "mỳ, bún"
+      },
+      {
+        "STT": 27,
+        "VOCABULARY": "pasta",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈpɑːstə/",
+        "MEANING": "mỳ Ý"
+      },
+      {
+        "STT": 28,
+        "VOCABULARY": "cheese",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/tʃiːz/",
+        "MEANING": "pho mát"
+      },
+      {
+        "STT": 29,
+        "VOCABULARY": "hot pot",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈhɑːt ˌpɑːt/",
+        "MEANING": "lẩu"
+      },
+      {
+        "STT": 30,
+        "VOCABULARY": "porridge",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈpɔːr.ɪdʒ/",
+        "MEANING": "cháo"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "topicName": "BODY MOVEMENT - ĐỘNG TÁC",
+    "originalFile": "16 BODY MOVEMENT - ĐỘNG TÁC.json",
+    "words": [
+      {
+        "STT": 1,
+        "VOCABULARY": "walk",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/wɑːk/",
+        "MEANING": "đi bộ"
+      },
+      {
+        "STT": 2,
+        "VOCABULARY": "jog",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/dʒɑːɡ/",
+        "MEANING": "đi bộ nhanh (tập thể dục)"
+      },
+      {
+        "STT": 3,
+        "VOCABULARY": "run",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/rʌn/",
+        "MEANING": "chạy"
+      },
+      {
+        "STT": 4,
+        "VOCABULARY": "tiptoe",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/ˈtɪp.toʊ/",
+        "MEANING": "đi nhón chân"
+      },
+      {
+        "STT": 5,
+        "VOCABULARY": "jump",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/dʒʌmp/",
+        "MEANING": "nhảy"
+      },
+      {
+        "STT": 6,
+        "VOCABULARY": "leap",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/liːp/",
+        "MEANING": "nhảy vọt, nhảy xa"
+      },
+      {
+        "STT": 7,
+        "VOCABULARY": "stand",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/stænd/",
+        "MEANING": "đứng"
+      },
+      {
+        "STT": 8,
+        "VOCABULARY": "sit",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/sɪt/",
+        "MEANING": "ngồi"
+      },
+      {
+        "STT": 9,
+        "VOCABULARY": "lean",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/liːn/",
+        "MEANING": "dựa, tựa"
+      },
+      {
+        "STT": 10,
+        "VOCABULARY": "wave",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/weɪv/",
+        "MEANING": "vẫy tay"
+      },
+      {
+        "STT": 11,
+        "VOCABULARY": "clap",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/klæp/",
+        "MEANING": "vỗ tay"
+      },
+      {
+        "STT": 12,
+        "VOCABULARY": "point",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/pɔɪnt/",
+        "MEANING": "chỉ, trỏ"
+      },
+      {
+        "STT": 13,
+        "VOCABULARY": "catch",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/kætʃ/",
+        "MEANING": "bắt, đỡ"
+      },
+      {
+        "STT": 14,
+        "VOCABULARY": "stretch",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/stretʃ/",
+        "MEANING": "vươn (vai..), ưỡn lưng"
+      },
+      {
+        "STT": 15,
+        "VOCABULARY": "push",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/pʊʃ/",
+        "MEANING": "đẩy"
+      },
+      {
+        "STT": 16,
+        "VOCABULARY": "pull",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/pʊl/",
+        "MEANING": "kéo"
+      },
+      {
+        "STT": 17,
+        "VOCABULARY": "crawl",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/krɑːl/",
+        "MEANING": "bò, trườn"
+      },
+      {
+        "STT": 18,
+        "VOCABULARY": "bend",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/bend/",
+        "MEANING": "cúi, uốn cong"
+      },
+      {
+        "STT": 19,
+        "VOCABULARY": "talk",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/tɑːk/",
+        "MEANING": "nói chuyện, trò chuyện"
+      },
+      {
+        "STT": 20,
+        "VOCABULARY": "kiss",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/kɪs/",
+        "MEANING": "hôn"
+      },
+      {
+        "STT": 21,
+        "VOCABULARY": "laugh",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/læf/",
+        "MEANING": "cười lớn"
+      },
+      {
+        "STT": 22,
+        "VOCABULARY": "smile",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/smaɪl/",
+        "MEANING": "cười"
+      },
+      {
+        "STT": 23,
+        "VOCABULARY": "frown",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/fraʊn/",
+        "MEANING": "nhíu mày"
+      },
+      {
+        "STT": 24,
+        "VOCABULARY": "cry",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/kraɪ/",
+        "MEANING": "khóc lóc"
+      },
+      {
+        "STT": 25,
+        "VOCABULARY": "hit",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/hɪt/",
+        "MEANING": "đánh, va phải"
+      },
+      {
+        "STT": 26,
+        "VOCABULARY": "punch",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/pʌntʃ/",
+        "MEANING": "đấm, thọi"
+      },
+      {
+        "STT": 27,
+        "VOCABULARY": "kick",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/kɪk/",
+        "MEANING": "đá"
+      },
+      {
+        "STT": 28,
+        "VOCABULARY": "put down",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/pʊt daʊn/",
+        "MEANING": "đặt xuống"
+      },
+      {
+        "STT": 29,
+        "VOCABULARY": "march",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/mɑːrtʃ/",
+        "MEANING": "diễu hành, hành quân"
+      },
+      {
+        "STT": 30,
+        "VOCABULARY": "drop",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/drɑːp/",
+        "MEANING": "làm rơi"
+      },
+      {
+        "STT": 31,
+        "VOCABULARY": "break",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/breɪk/",
+        "MEANING": "làm vỡ, bẻ gãy"
+      },
+      {
+        "STT": 32,
+        "VOCABULARY": "drag",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/dræɡ/",
+        "MEANING": "lôi, kéo"
+      },
+      {
+        "STT": 33,
+        "VOCABULARY": "carry",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/ˈker.i/",
+        "MEANING": "mang, vác"
+      },
+      {
+        "STT": 34,
+        "VOCABULARY": "open",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/ˈoʊ.pən/",
+        "MEANING": "mở ra"
+      },
+      {
+        "STT": 35,
+        "VOCABULARY": "lie down",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/laɪ daʊn/",
+        "MEANING": "nằm xuống, ngả lưng"
+      },
+      {
+        "STT": 36,
+        "VOCABULARY": "hold",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/hoʊld/",
+        "MEANING": "nắm, giữ"
+      },
+      {
+        "STT": 37,
+        "VOCABULARY": "lift",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/lɪft/",
+        "MEANING": "nâng lên"
+      },
+      {
+        "STT": 38,
+        "VOCABULARY": "throw",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/θroʊ/",
+        "MEANING": "ném, quăng, vứt"
+      },
+      {
+        "STT": 39,
+        "VOCABULARY": "trip",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/trɪp/",
+        "MEANING": "ngáng chân, vấp ngã"
+      },
+      {
+        "STT": 40,
+        "VOCABULARY": "squat",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/skwɑːt/",
+        "MEANING": "ngồi xổm"
+      },
+      {
+        "STT": 41,
+        "VOCABULARY": "cartwheel",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/ˈkɑːrt.wiːl/",
+        "MEANING": "nhào lộn"
+      },
+      {
+        "STT": 42,
+        "VOCABULARY": "dive",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/daɪv/",
+        "MEANING": "nhảy lao xuống nước, lặn"
+      },
+      {
+        "STT": 43,
+        "VOCABULARY": "dance",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/dæns/",
+        "MEANING": "nhảy múa, khiêu vũ"
+      },
+      {
+        "STT": 44,
+        "VOCABULARY": "look",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/lʊk/",
+        "MEANING": "nhìn, ngắm"
+      },
+      {
+        "STT": 45,
+        "VOCABULARY": "kneel",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/niːl/",
+        "MEANING": "quỳ gối"
+      },
+      {
+        "STT": 46,
+        "VOCABULARY": "slip",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/slɪp/",
+        "MEANING": "trượt, tuột"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "topicName": "CLOTHES - TRANG PHỤC",
+    "originalFile": "17 CLOTHES - TRANG PHỤC.json",
+    "words": [
+      {
+        "STT": 1,
+        "VOCABULARY": "clothes",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/kləʊðz/",
+        "MEANING": "quần áo (nói chung)"
+      },
+      {
+        "STT": 2,
+        "VOCABULARY": "t-shirt",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈtiː.ʃɝːt/",
+        "MEANING": "áo phông"
+      },
+      {
+        "STT": 3,
+        "VOCABULARY": "shirt",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ʃɝːt/",
+        "MEANING": "áo sơ mi"
+      },
+      {
+        "STT": 4,
+        "VOCABULARY": "sweater",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈswet̬.ɚ/",
+        "MEANING": "áo len dài tay"
+      },
+      {
+        "STT": 5,
+        "VOCABULARY": "vest",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/vest/",
+        "MEANING": "áo gi-lê, áo vét"
+      },
+      {
+        "STT": 6,
+        "VOCABULARY": "suit",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/suːt/",
+        "MEANING": "bộ com lê, Âu phục"
+      },
+      {
+        "STT": 7,
+        "VOCABULARY": "trench coat",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈtrentʃ ˌkoʊt/",
+        "MEANING": "áo choàng"
+      },
+      {
+        "STT": 8,
+        "VOCABULARY": "skirt",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/skɜːrt/",
+        "MEANING": "chân váy"
+      },
+      {
+        "STT": 9,
+        "VOCABULARY": "pants",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/pænts/",
+        "MEANING": "quần"
+      },
+      {
+        "STT": 10,
+        "VOCABULARY": "jeans",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/dʒiːnz/",
+        "MEANING": "quần bò"
+      },
+      {
+        "STT": 11,
+        "VOCABULARY": "shorts",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ʃɔːrts/",
+        "MEANING": "quần sóoc, quần đùi"
+      },
+      {
+        "STT": 12,
+        "VOCABULARY": "accessories",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/əkˈsesəris/",
+        "MEANING": "phụ kiện"
+      },
+      {
+        "STT": 13,
+        "VOCABULARY": "hat",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/hæt/",
+        "MEANING": "mũ"
+      },
+      {
+        "STT": 14,
+        "VOCABULARY": "glasses",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈɡlæs·əz/",
+        "MEANING": "kính mắt"
+      },
+      {
+        "STT": 15,
+        "VOCABULARY": "sunglasses",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈsʌnˌɡlæs.ɪz/",
+        "MEANING": "kính râm, kính mát"
+      },
+      {
+        "STT": 16,
+        "VOCABULARY": "earring",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈɪrɪŋ/",
+        "MEANING": "khuyên tai"
+      },
+      {
+        "STT": 17,
+        "VOCABULARY": "necklace",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈnekləs/",
+        "MEANING": "vòng cổ"
+      },
+      {
+        "STT": 18,
+        "VOCABULARY": "ring",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/rɪŋ/",
+        "MEANING": "nhẫn"
+      },
+      {
+        "STT": 19,
+        "VOCABULARY": "hairpin",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈherpɪn/",
+        "MEANING": "cặp tóc"
+      },
+      {
+        "STT": 20,
+        "VOCABULARY": "tie",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/taɪ/",
+        "MEANING": "cà vạt, nơ"
+      },
+      {
+        "STT": 21,
+        "VOCABULARY": "scarf",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/skɑːrf/",
+        "MEANING": "khăn choàng"
+      },
+      {
+        "STT": 22,
+        "VOCABULARY": "gloves",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ɡlʌv/",
+        "MEANING": "găng tay, bao tay"
+      },
+      {
+        "STT": 23,
+        "VOCABULARY": "watch",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/wɑːtʃ/",
+        "MEANING": "đồng hồ"
+      },
+      {
+        "STT": 24,
+        "VOCABULARY": "handbag",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈhænd.bæɡ/",
+        "MEANING": "túi xách"
+      },
+      {
+        "STT": 25,
+        "VOCABULARY": "wallet",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈwɑː.lɪt/",
+        "MEANING": "ví, bóp"
+      },
+      {
+        "STT": 26,
+        "VOCABULARY": "belt",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/belt/",
+        "MEANING": "thắt lưng"
+      },
+      {
+        "STT": 27,
+        "VOCABULARY": "socks",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/sɑːk/",
+        "MEANING": "tất, vớ"
+      },
+      {
+        "STT": 28,
+        "VOCABULARY": "shoe",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ʃuː/",
+        "MEANING": "giày"
+      },
+      {
+        "STT": 29,
+        "VOCABULARY": "boot",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/buːt/",
+        "MEANING": "ủng, giày cao cổ"
+      },
+      {
+        "STT": 30,
+        "VOCABULARY": "swimsuit",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈswɪm.suːt/",
+        "MEANING": "đồ tắm, đồ bơi"
+      },
+      {
+        "STT": 31,
+        "VOCABULARY": "bra",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/brɑː/",
+        "MEANING": "áo lót"
+      },
+      {
+        "STT": 32,
+        "VOCABULARY": "underwear",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈʌndərwer/",
+        "MEANING": "quần lót"
+      },
+      {
+        "STT": 33,
+        "VOCABULARY": "button",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈbʌtn/",
+        "MEANING": "khuy áo"
+      },
+      {
+        "STT": 34,
+        "VOCABULARY": "collar",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈkɑːlər/",
+        "MEANING": "cổ áo"
+      },
+      {
+        "STT": 35,
+        "VOCABULARY": "hem",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/hem/",
+        "MEANING": "đường viền (áo, quần)"
+      },
+      {
+        "STT": 36,
+        "VOCABULARY": "hood",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/hʊd/",
+        "MEANING": "mũ áo"
+      },
+      {
+        "STT": 37,
+        "VOCABULARY": "pocket",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈpɑːkɪt/",
+        "MEANING": "túi áo, túi quần"
+      },
+      {
+        "STT": 38,
+        "VOCABULARY": "sleeve",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/sliːv/",
+        "MEANING": "tay áo"
+      },
+      {
+        "STT": 39,
+        "VOCABULARY": "strap",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/stræp/",
+        "MEANING": "dây"
+      },
+      {
+        "STT": 40,
+        "VOCABULARY": "zip",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/zɪp/",
+        "MEANING": "khóa kéo"
+      },
+      {
+        "STT": 41,
+        "VOCABULARY": "cuff",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/kʌf/",
+        "MEANING": "cổ tay áo"
+      },
+      {
+        "STT": 42,
+        "VOCABULARY": "denim",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈdenɪm/",
+        "MEANING": "vải bò"
+      },
+      {
+        "STT": 43,
+        "VOCABULARY": "silk",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/sɪlk/",
+        "MEANING": "lụa"
+      },
+      {
+        "STT": 44,
+        "VOCABULARY": "corduroy",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈkɔːrdərɔɪ/",
+        "MEANING": "nhung"
+      },
+      {
+        "STT": 45,
+        "VOCABULARY": "cotton",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈkɑːtn/",
+        "MEANING": "vải sợi bông"
+      },
+      {
+        "STT": 46,
+        "VOCABULARY": "linen",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈlɪnɪn/",
+        "MEANING": "vải lanh"
+      },
+      {
+        "STT": 47,
+        "VOCABULARY": "khaki",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈkɑːki/",
+        "MEANING": "vải kaki"
+      },
+      {
+        "STT": 48,
+        "VOCABULARY": "jewel",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈdʒuːəl/",
+        "MEANING": "đá quý"
+      },
+      {
+        "STT": 49,
+        "VOCABULARY": "diamond",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈdaɪmənd/",
+        "MEANING": "kim cương"
+      },
+      {
+        "STT": 50,
+        "VOCABULARY": "gold",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ɡəʊld/",
+        "MEANING": "vàng"
+      },
+      {
+        "STT": 51,
+        "VOCABULARY": "silver",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈsɪlvər/",
+        "MEANING": "bạc"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "topicName": "FEELING - CẢM XÚC",
+    "originalFile": "18 FEELING - CẢM XÚC.json",
+    "words": [
+      {
+        "STT": 1,
+        "VOCABULARY": "annoyed",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/əˈnɔɪd/",
+        "MEANING": "khó chịu, bực bội, bị làm phiền"
+      },
+      {
+        "STT": 2,
+        "VOCABULARY": "angry",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈæŋɡri/",
+        "MEANING": "tức giận"
+      },
+      {
+        "STT": 3,
+        "VOCABULARY": "mad",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/mæd/",
+        "MEANING": "cực kì giận"
+      },
+      {
+        "STT": 4,
+        "VOCABULARY": "worried",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈwɜːrid/",
+        "MEANING": "lo lắng"
+      },
+      {
+        "STT": 5,
+        "VOCABULARY": "happy",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈhæpi/",
+        "MEANING": "vui vẻ"
+      },
+      {
+        "STT": 6,
+        "VOCABULARY": "sad",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/sæd/",
+        "MEANING": "buồn sầu"
+      },
+      {
+        "STT": 7,
+        "VOCABULARY": "moody",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈmuːdi/",
+        "MEANING": "buồn bực"
+      },
+      {
+        "STT": 8,
+        "VOCABULARY": "anxious",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈæŋk.ʃəs/",
+        "MEANING": "lo âu, bồn chồn"
+      },
+      {
+        "STT": 9,
+        "VOCABULARY": "grateful",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈɡreɪtfl/",
+        "MEANING": "biết ơn"
+      },
+      {
+        "STT": 10,
+        "VOCABULARY": "emotional",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ɪˈməʊʃənl/",
+        "MEANING": "xúc động"
+      },
+      {
+        "STT": 11,
+        "VOCABULARY": "hungry",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈhʌŋɡri/",
+        "MEANING": "đói"
+      },
+      {
+        "STT": 12,
+        "VOCABULARY": "thirsty",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈθɜːrsti/",
+        "MEANING": "khát"
+      },
+      {
+        "STT": 13,
+        "VOCABULARY": "astonished",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/əˈstɑː.nɪʃt/",
+        "MEANING": "kinh ngạc"
+      },
+      {
+        "STT": 14,
+        "VOCABULARY": "uncomfortable",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ʌnˈkʌmftəbl/",
+        "MEANING": "không thoải mái"
+      },
+      {
+        "STT": 15,
+        "VOCABULARY": "wonderful",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈwʌndərfl/",
+        "MEANING": "tuyệt vời"
+      },
+      {
+        "STT": 16,
+        "VOCABULARY": "bored",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/bɔːrd/",
+        "MEANING": "buồn chán, tẻ nhạt"
+      },
+      {
+        "STT": 17,
+        "VOCABULARY": "tired",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈtaɪərd/",
+        "MEANING": "mệt mỏi"
+      },
+      {
+        "STT": 18,
+        "VOCABULARY": "terrible",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈterəbl/",
+        "MEANING": "tệ hại"
+      },
+      {
+        "STT": 19,
+        "VOCABULARY": "calm",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/kɑːm/",
+        "MEANING": "bình tĩnh"
+      },
+      {
+        "STT": 20,
+        "VOCABULARY": "unhappy",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ʌnˈhæpi/",
+        "MEANING": "không vui"
+      },
+      {
+        "STT": 21,
+        "VOCABULARY": "upset",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˌʌpˈset/",
+        "MEANING": "buồn bực"
+      },
+      {
+        "STT": 22,
+        "VOCABULARY": "delighted",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/dɪˈlaɪ.t̬ɪd/",
+        "MEANING": "vui mừng, mừng rỡ"
+      },
+      {
+        "STT": 23,
+        "VOCABULARY": "desperate",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈdes.pɚ.ət/",
+        "MEANING": "tuyệt vọng, chán trường"
+      },
+      {
+        "STT": 24,
+        "VOCABULARY": "disturbed",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/dɪˈstɝːbd/",
+        "MEANING": "bối rối, lúng túng"
+      },
+      {
+        "STT": 25,
+        "VOCABULARY": "doubtful",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈdaʊt.fəl/",
+        "MEANING": "nghi hoặc, hoài nghi"
+      },
+      {
+        "STT": 26,
+        "VOCABULARY": "down",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/daʊn/",
+        "MEANING": "nản lòng, chán nản"
+      },
+      {
+        "STT": 27,
+        "VOCABULARY": "drained",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/dreɪnd/",
+        "MEANING": "kiệt sức"
+      },
+      {
+        "STT": 28,
+        "VOCABULARY": "elated",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/iˈleɪ.t̬ɪd/",
+        "MEANING": "phẩn khởi, hân hoan"
+      },
+      {
+        "STT": 29,
+        "VOCABULARY": "embarrassed",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ɪmˈber.əst/",
+        "MEANING": "xấu hổ, ngại ngùng"
+      },
+      {
+        "STT": 30,
+        "VOCABULARY": "empathetic",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˌem.pəˈθet̬.ɪk/",
+        "MEANING": "đồng cảm, xót xa"
+      },
+      {
+        "STT": 31,
+        "VOCABULARY": "enlightened",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ɪnˈlaɪ.t̬ənd/",
+        "MEANING": "được làm sáng tỏ, được thông suốt"
+      },
+      {
+        "STT": 32,
+        "VOCABULARY": "jealous",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈdʒeləs/",
+        "MEANING": "ghen tị"
+      },
+      {
+        "STT": 33,
+        "VOCABULARY": "envious",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈen.vi.əs/",
+        "MEANING": "ghen tị, độ kỵ"
+      },
+      {
+        "STT": 34,
+        "VOCABULARY": "excited",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ɪkˈsaɪ.t̬ɪd/",
+        "MEANING": "hưng phấn, sôi nổi"
+      },
+      {
+        "STT": 35,
+        "VOCABULARY": "excluded",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ɪkˈskluːd/",
+        "MEANING": "bị bỏ rơi, cảm giác lạc lõng"
+      },
+      {
+        "STT": 36,
+        "VOCABULARY": "exhausted",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ɪɡˈzɑː.stɪd/",
+        "MEANING": "mệt lử"
+      },
+      {
+        "STT": 37,
+        "VOCABULARY": "foolish",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈfuː.lɪʃ/",
+        "MEANING": "dại dột"
+      },
+      {
+        "STT": 38,
+        "VOCABULARY": "frustrated",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈfrʌs.treɪ.t̬ɪd/",
+        "MEANING": "nản lòng, nản chí"
+      },
+      {
+        "STT": 39,
+        "VOCABULARY": "furious",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈfʊr.i.əs/",
+        "MEANING": "giận dữ, điên tiết"
+      },
+      {
+        "STT": 40,
+        "VOCABULARY": "giddy",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈɡɪd.i/",
+        "MEANING": "chóng mặt, choáng váng"
+      },
+      {
+        "STT": 41,
+        "VOCABULARY": "glad",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ɡlæd/",
+        "MEANING": "vui sướng"
+      },
+      {
+        "STT": 42,
+        "VOCABULARY": "gleeful",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈɡliː.fəl/",
+        "MEANING": "hân hoan, mừng rỡ"
+      },
+      {
+        "STT": 43,
+        "VOCABULARY": "guarded",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈɡɑːr.dɪd/",
+        "MEANING": "thận trọng, ý tứ"
+      },
+      {
+        "STT": 44,
+        "VOCABULARY": "guilty",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈɡɪl.ti/",
+        "MEANING": "mặc cảm, cảm thấy tội lỗi"
+      },
+      {
+        "STT": 45,
+        "VOCABULARY": "hesitant",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈhez.ə.tənt/",
+        "MEANING": "do dự, ngập ngừng"
+      },
+      {
+        "STT": 46,
+        "VOCABULARY": "hollow",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈhɑː.loʊ/",
+        "MEANING": "trống rỗng"
+      },
+      {
+        "STT": 47,
+        "VOCABULARY": "horrified",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈhɔːr.ə.faɪd/",
+        "MEANING": "khiếp sợ"
+      },
+      {
+        "STT": 48,
+        "VOCABULARY": "humiliated",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/hjuːˈmɪl.i.eɪ.t̬ɪd/",
+        "MEANING": "cảm giác bẽ mặt, xấu hổ"
+      },
+      {
+        "STT": 49,
+        "VOCABULARY": "indifferent",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ɪnˈdɪf.ɚ.ənt/",
+        "MEANING": "dửng dưng, lãnh đạm, thờ ơ"
+      },
+      {
+        "STT": 50,
+        "VOCABULARY": "intense",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ɪnˈtens/",
+        "MEANING": "mãnh liệt, nồng nhiệt"
+      },
+      {
+        "STT": 51,
+        "VOCABULARY": "interested",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈɪn.trɪ.stɪd/",
+        "MEANING": "hứng thú, thích thú"
+      },
+      {
+        "STT": 52,
+        "VOCABULARY": "irritated",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈɪr.ə.teɪ.t̬ɪd/",
+        "MEANING": "tức tối, khó chịu"
+      },
+      {
+        "STT": 53,
+        "VOCABULARY": "jittery",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈdʒɪt̬.ɚ.i/",
+        "MEANING": "bồn chồn, dễ bị kích động"
+      },
+      {
+        "STT": 54,
+        "VOCABULARY": "jolly",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈdʒɑː.li/",
+        "MEANING": "vui tươi, nhộn nhịp"
+      },
+      {
+        "STT": 55,
+        "VOCABULARY": "joyful",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈdʒɔɪ.fəl/",
+        "MEANING": "hân hoan, vui mừng"
+      },
+      {
+        "STT": 56,
+        "VOCABULARY": "keen",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/kiːn/",
+        "MEANING": "say mê, ham thích"
+      },
+      {
+        "STT": 57,
+        "VOCABULARY": "lonely",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈloʊn.li/",
+        "MEANING": "cô đơn"
+      },
+      {
+        "STT": 58,
+        "VOCABULARY": "longing",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈlɑːŋ.ɪŋ/",
+        "MEANING": "thèm khát, thèm muốn"
+      },
+      {
+        "STT": 59,
+        "VOCABULARY": "lost",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/lɑːst/",
+        "MEANING": "lạc lõng, mất phương hướng"
+      },
+      {
+        "STT": 60,
+        "VOCABULARY": "lucky",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈlʌk.i/",
+        "MEANING": "may mắn"
+      },
+      {
+        "STT": 61,
+        "VOCABULARY": "melancholic",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˌmel.əŋˈkɑː.lɪk/",
+        "MEANING": "u sầu, buồn bã"
+      },
+      {
+        "STT": 62,
+        "VOCABULARY": "miserable",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈmɪz.ɚ.ə.bəl/",
+        "MEANING": "khốn khổ, đáng thương"
+      },
+      {
+        "STT": 63,
+        "VOCABULARY": "mortified",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈmɔːr.t̬ə.faɪd/",
+        "MEANING": "xấu hổ, ái ngại"
+      },
+      {
+        "STT": 64,
+        "VOCABULARY": "mournful",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈmɔːrn.fəl/",
+        "MEANING": "buồn rầu, ảm đạm"
+      },
+      {
+        "STT": 65,
+        "VOCABULARY": "nasty",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈnæs.ti/",
+        "MEANING": "tục tĩu"
+      },
+      {
+        "STT": 66,
+        "VOCABULARY": "needy",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈniː.di/",
+        "MEANING": "thiếu thốn (về mặt tình cảm)"
+      },
+      {
+        "STT": 67,
+        "VOCABULARY": "nervous",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈnɝː.vəs/",
+        "MEANING": "lo lắng, bồn chồn"
+      },
+      {
+        "STT": 68,
+        "VOCABULARY": "numb",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/nʌm/",
+        "MEANING": "lặng người"
+      },
+      {
+        "STT": 69,
+        "VOCABULARY": "obsessed",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/əbˈsest/",
+        "MEANING": "ám ảnh"
+      },
+      {
+        "STT": 70,
+        "VOCABULARY": "offended",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/əˈfendɪd",
+        "MEANING": "phật ý, cảm thấy bị xúc phạm"
+      },
+      {
+        "STT": 71,
+        "VOCABULARY": "optimistic",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˌɑːp.təˈmɪs.tɪk/",
+        "MEANING": "lạc quan, yêu đời"
+      },
+      {
+        "STT": 72,
+        "VOCABULARY": "overwhelmed",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˌoʊ.vɚˈwelmd/",
+        "MEANING": "choáng ngợp, quá tải"
+      },
+      {
+        "STT": 73,
+        "VOCABULARY": "passionate",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈpæʃ.ən.ət/",
+        "MEANING": "nồng nhiệt, thiết tha"
+      },
+      {
+        "STT": 74,
+        "VOCABULARY": "peaceful",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈpiːs.fəl/",
+        "MEANING": "thanh thản, bình yên"
+      },
+      {
+        "STT": 75,
+        "VOCABULARY": "positive",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈpɑː.zə.t̬ɪv/",
+        "MEANING": "tích cực, lạc quan"
+      },
+      {
+        "STT": 76,
+        "VOCABULARY": "proud",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/praʊd/",
+        "MEANING": "hãnh diện, tự hào"
+      },
+      {
+        "STT": 77,
+        "VOCABULARY": "regretful",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/rɪˈɡret.fəl/",
+        "MEANING": "hối tiếc"
+      },
+      {
+        "STT": 78,
+        "VOCABULARY": "relaxed",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/rɪˈlækst/",
+        "MEANING": "thư giãn, thoải mái"
+      },
+      {
+        "STT": 79,
+        "VOCABULARY": "relieved",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/rɪˈliːvd/",
+        "MEANING": "nhẹ nhõm"
+      },
+      {
+        "STT": 80,
+        "VOCABULARY": "satisfied",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈsæt̬.ɪs.faɪd/",
+        "MEANING": "thỏa mãn, hài lòng"
+      },
+      {
+        "STT": 81,
+        "VOCABULARY": "self-conscious",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˌselfˈkɑːn.ʃəs/",
+        "MEANING": "e dè, ngượng nghịu"
+      },
+      {
+        "STT": 82,
+        "VOCABULARY": "selfish",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈsel.fɪʃ/",
+        "MEANING": "ích kỷ"
+      },
+      {
+        "STT": 83,
+        "VOCABULARY": "sensitive",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈsen.sə.t̬ɪv/",
+        "MEANING": "nhạy cảm, dễ tổn thương"
+      },
+      {
+        "STT": 84,
+        "VOCABULARY": "shameful",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈʃeɪm.fəl/",
+        "MEANING": "đáng hổ thẹn, ngượng"
+      },
+      {
+        "STT": 85,
+        "VOCABULARY": "shock",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ʃɑːkt/",
+        "MEANING": "bất ngờ, sốc"
+      },
+      {
+        "STT": 86,
+        "VOCABULARY": "speechless",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈspiːtʃ.ləs/",
+        "MEANING": "câm nín"
+      },
+      {
+        "STT": 87,
+        "VOCABULARY": "stressed",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/strest/",
+        "MEANING": "căng thẳng"
+      },
+      {
+        "STT": 88,
+        "VOCABULARY": "stunned",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/stʌnd/",
+        "MEANING": "sững sờ, bất ngờ"
+      },
+      {
+        "STT": 89,
+        "VOCABULARY": "surprised",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/sɚˈpraɪzd/",
+        "MEANING": "bất ngờ, ngạc nhiên"
+      },
+      {
+        "STT": 90,
+        "VOCABULARY": "thankful",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈθæŋk.fəl/",
+        "MEANING": "biết ơn"
+      },
+      {
+        "STT": 91,
+        "VOCABULARY": "upbeat",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈʌp.biːt/",
+        "MEANING": "vui vẻ, phấn chấn"
+      },
+      {
+        "STT": 92,
+        "VOCABULARY": "uptight",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˌʌpˈtaɪt/",
+        "MEANING": "căng thẳng, lo lắng"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "topicName": "COOKING - NẤU ĂN",
+    "originalFile": "19 COOKING - NẤU ĂN.json",
+    "words": [
+      {
+        "STT": 1,
+        "VOCABULARY": "ingredient",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ɪnˈɡriːdiənt/",
+        "MEANING": "nguyên liệu"
+      },
+      {
+        "STT": 2,
+        "VOCABULARY": "recipe",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈresəpi/",
+        "MEANING": "công thức nấu ăn"
+      },
+      {
+        "STT": 3,
+        "VOCABULARY": "cooking oil",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈkʊkɪŋ ɔɪl/",
+        "MEANING": "dầu ăn"
+      },
+      {
+        "STT": 4,
+        "VOCABULARY": "salt",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/sɔːlt/",
+        "MEANING": "muối"
+      },
+      {
+        "STT": 5,
+        "VOCABULARY": "sugar",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈʃʊɡər/",
+        "MEANING": "đường"
+      },
+      {
+        "STT": 6,
+        "VOCABULARY": "vinegar",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈvɪnɪɡər/",
+        "MEANING": "dấm"
+      },
+      {
+        "STT": 7,
+        "VOCABULARY": "chili sauce",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈtʃɪli sɔːs/",
+        "MEANING": "tương ớt"
+      },
+      {
+        "STT": 8,
+        "VOCABULARY": "ketchup",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈketʃəp/",
+        "MEANING": "tương cà chua"
+      },
+      {
+        "STT": 9,
+        "VOCABULARY": "raw",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/rɑː/",
+        "MEANING": "sống"
+      },
+      {
+        "STT": 10,
+        "VOCABULARY": "wash",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/wɑːʃ/",
+        "MEANING": "rửa"
+      },
+      {
+        "STT": 11,
+        "VOCABULARY": "peel",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/piːl/",
+        "MEANING": "bóc vỏ"
+      },
+      {
+        "STT": 12,
+        "VOCABULARY": "chop",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/tʃɑːp/",
+        "MEANING": "chặt, bổ"
+      },
+      {
+        "STT": 13,
+        "VOCABULARY": "chunk",
+        "WORD TYPE": "v, n",
+        "PRONUNCIATION": "/tʃʌŋk/",
+        "MEANING": "cắt khúc, khúc"
+      },
+      {
+        "STT": 14,
+        "VOCABULARY": "filet",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/ˈfɪl.ɪt/",
+        "MEANING": "róc xương, lạng thịt"
+      },
+      {
+        "STT": 15,
+        "VOCABULARY": "slice",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/slaɪs/",
+        "MEANING": "thái"
+      },
+      {
+        "STT": 16,
+        "VOCABULARY": "dice",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/daɪs/",
+        "MEANING": "thái hạt lựu"
+      },
+      {
+        "STT": 17,
+        "VOCABULARY": "mince",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/mɪns/",
+        "MEANING": "băm, xay"
+      },
+      {
+        "STT": 18,
+        "VOCABULARY": "mash",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/mæʃ/",
+        "MEANING": "nghiền, làm nát"
+      },
+      {
+        "STT": 19,
+        "VOCABULARY": "blend",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/blend/",
+        "MEANING": "trộn"
+      },
+      {
+        "STT": 20,
+        "VOCABULARY": "boil",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/bɔɪl/",
+        "MEANING": "đun sôi, luộc"
+      },
+      {
+        "STT": 21,
+        "VOCABULARY": "steam",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/stiːm/",
+        "MEANING": "hấp"
+      },
+      {
+        "STT": 22,
+        "VOCABULARY": "stew",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/stuː/",
+        "MEANING": "hầm, ninh nhừ"
+      },
+      {
+        "STT": 23,
+        "VOCABULARY": "blanch",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/blæntʃ/",
+        "MEANING": "chần thức ăn"
+      },
+      {
+        "STT": 24,
+        "VOCABULARY": "stir",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/stɝː/",
+        "MEANING": "xào, quấy"
+      },
+      {
+        "STT": 25,
+        "VOCABULARY": "fry",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/fraɪ/",
+        "MEANING": "rán"
+      },
+      {
+        "STT": 26,
+        "VOCABULARY": "bake",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/beɪk/",
+        "MEANING": "nướng (bánh)"
+      },
+      {
+        "STT": 27,
+        "VOCABULARY": "roast",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/roʊst/",
+        "MEANING": "quay, nướng"
+      },
+      {
+        "STT": 28,
+        "VOCABULARY": "grill",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/ɡrɪl/",
+        "MEANING": "nướng"
+      },
+      {
+        "STT": 29,
+        "VOCABULARY": "steep",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/stiːp/",
+        "MEANING": "ngâm"
+      },
+      {
+        "STT": 30,
+        "VOCABULARY": "dip",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/dɪp/",
+        "MEANING": "nhúng"
+      },
+      {
+        "STT": 31,
+        "VOCABULARY": "brew",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/bruː/",
+        "MEANING": "ủ (trà, rượu...)"
+      },
+      {
+        "STT": 32,
+        "VOCABULARY": "ferment",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/fɚˈment/",
+        "MEANING": "lên men"
+      },
+      {
+        "STT": 33,
+        "VOCABULARY": "chill",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/tʃɪl/",
+        "MEANING": "làm tan giá, rã đông"
+      },
+      {
+        "STT": 34,
+        "VOCABULARY": "cool",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/kuːl/",
+        "MEANING": "để nguội"
+      },
+      {
+        "STT": 35,
+        "VOCABULARY": "melt",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/melt/",
+        "MEANING": "làm tan chảy"
+      },
+      {
+        "STT": 36,
+        "VOCABULARY": "flavor",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/ˈfleɪ.vɚ/",
+        "MEANING": "tẩm gia vị"
+      },
+      {
+        "STT": 37,
+        "VOCABULARY": "marinate",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/ˈmer.ə.neɪt/",
+        "MEANING": "ướp"
+      },
+      {
+        "STT": 38,
+        "VOCABULARY": "salt",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/sɑːlt/",
+        "MEANING": "ướp gia vị, rắc muối"
+      },
+      {
+        "STT": 39,
+        "VOCABULARY": "garnish",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/ˈɡɑːr.nɪʃ/",
+        "MEANING": "trang trí, bày biện"
+      },
+      {
+        "STT": 40,
+        "VOCABULARY": "press",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/pres/",
+        "MEANING": "ấn, ép"
+      },
+      {
+        "STT": 41,
+        "VOCABULARY": "refrigerate",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/rɪˈfrɪdʒ.ə.reɪt/",
+        "MEANING": "ướp lạnh"
+      },
+      {
+        "STT": 42,
+        "VOCABULARY": "roll",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/roʊl/",
+        "MEANING": "cuộn"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "topicName": "VEHICLES - PHƯƠNG TIỆN GIAO THÔNG",
+    "originalFile": "20 VEHICLES - PHƯƠNG TIỆN GIAO THÔNG.json",
+    "words": [
+      {
+        "STT": 1,
+        "VOCABULARY": "automobile car",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈɔːtəməbiːl/ /kɑːr/",
+        "MEANING": "xe ô tô"
+      },
+      {
+        "STT": 2,
+        "VOCABULARY": "taxi",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈtæk.si/",
+        "MEANING": "xe taxi"
+      },
+      {
+        "STT": 3,
+        "VOCABULARY": "bus",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/bʌs/",
+        "MEANING": "xe buýt"
+      },
+      {
+        "STT": 4,
+        "VOCABULARY": "bicycle bike",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈbaɪ.sə.kəl/ /baɪk/",
+        "MEANING": "xe đạp"
+      },
+      {
+        "STT": 5,
+        "VOCABULARY": "motorcycle motorbike",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈməʊtərsaɪkl/ /ˈməʊtərbaɪk/",
+        "MEANING": "xe máy"
+      },
+      {
+        "STT": 6,
+        "VOCABULARY": "airplane plane",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈer.pleɪn/ /pleɪn/",
+        "MEANING": "máy bay"
+      },
+      {
+        "STT": 7,
+        "VOCABULARY": "helicopter",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈhel.əˌkɑːp.tɚ/",
+        "MEANING": "trực thăng"
+      },
+      {
+        "STT": 8,
+        "VOCABULARY": "train",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/treɪn/",
+        "MEANING": "tàu hỏa"
+      },
+      {
+        "STT": 9,
+        "VOCABULARY": "subway",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈsʌbweɪ/",
+        "MEANING": "tàu điện ngầm"
+      },
+      {
+        "STT": 10,
+        "VOCABULARY": "boat",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/boʊt/",
+        "MEANING": "thuyền"
+      },
+      {
+        "STT": 11,
+        "VOCABULARY": "ship",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ʃɪp/",
+        "MEANING": "tàu"
+      },
+      {
+        "STT": 12,
+        "VOCABULARY": "van",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/væn/",
+        "MEANING": "xe van"
+      },
+      {
+        "STT": 13,
+        "VOCABULARY": "police car",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/pəˈliːs ˌkɑːr/",
+        "MEANING": "xe cảnh sát"
+      },
+      {
+        "STT": 14,
+        "VOCABULARY": "ambulance",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈæm.bjə.ləns/",
+        "MEANING": "xe cứu thương"
+      },
+      {
+        "STT": 15,
+        "VOCABULARY": "scooter",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈskuːtər/",
+        "MEANING": "xe tay ga"
+      },
+      {
+        "STT": 16,
+        "VOCABULARY": "truck",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/trʌk/",
+        "MEANING": "xe tải"
+      },
+      {
+        "STT": 17,
+        "VOCABULARY": "yacht",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/jɑːt/",
+        "MEANING": "du thuyền"
+      },
+      {
+        "STT": 18,
+        "VOCABULARY": "canoe",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/kəˈnuː/",
+        "MEANING": "ca nô"
+      },
+      {
+        "STT": 19,
+        "VOCABULARY": "fire engine",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈfaɪər endʒɪn/",
+        "MEANING": "xe cứu hỏa"
+      },
+      {
+        "STT": 20,
+        "VOCABULARY": "hot-air balloon",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˌhɑːt ˈer bəluːn/",
+        "MEANING": "khinh khí cầu"
+      },
+      {
+        "STT": 21,
+        "VOCABULARY": "submarine",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˌsʌbməˈriːn/",
+        "MEANING": "tàu ngầm"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "topicName": "TRAVEL - DU LỊCH",
+    "originalFile": "21 TRAVEL - DU LỊCH.json",
+    "words": [
+      {
+        "STT": 1,
+        "VOCABULARY": "travel",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/ˈtræv.əl/",
+        "MEANING": "đi du lịch"
+      },
+      {
+        "STT": 2,
+        "VOCABULARY": "depart",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/dɪˈpɑːrt/",
+        "MEANING": "khởi hành"
+      },
+      {
+        "STT": 3,
+        "VOCABULARY": "leave",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/liːv/",
+        "MEANING": "rời đi"
+      },
+      {
+        "STT": 4,
+        "VOCABULARY": "arrive",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/əˈraɪv/",
+        "MEANING": "đến nơi"
+      },
+      {
+        "STT": 5,
+        "VOCABULARY": "airport",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈer.pɔːrt/",
+        "MEANING": "sân bay"
+      },
+      {
+        "STT": 6,
+        "VOCABULARY": "take off",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/ˈteɪk ɔːf/",
+        "MEANING": "cất cánh"
+      },
+      {
+        "STT": 7,
+        "VOCABULARY": "land",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/lænd/",
+        "MEANING": "hạ cánh"
+      },
+      {
+        "STT": 8,
+        "VOCABULARY": "check in",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/ˈtʃek ɪn/",
+        "MEANING": "đăng ký phòng ở khách sạn"
+      },
+      {
+        "STT": 9,
+        "VOCABULARY": "check out",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/ˈtʃek aʊt/",
+        "MEANING": "trả phòng khách sạn"
+      },
+      {
+        "STT": 10,
+        "VOCABULARY": "visit",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/ˈvɪz.ɪt/",
+        "MEANING": "thăm viếng"
+      },
+      {
+        "STT": 11,
+        "VOCABULARY": "destination",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˌdes.təˈneɪ.ʃən/",
+        "MEANING": "điểm đến"
+      },
+      {
+        "STT": 12,
+        "VOCABULARY": "passenger",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈpæs.ən.dʒɚ/",
+        "MEANING": "hành khách"
+      },
+      {
+        "STT": 13,
+        "VOCABULARY": "tourist",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈtʊrɪst/",
+        "MEANING": "khách du lịch"
+      },
+      {
+        "STT": 14,
+        "VOCABULARY": "cruise",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/kruːz/",
+        "MEANING": "chuyến đi chơi trên biển"
+      },
+      {
+        "STT": 15,
+        "VOCABULARY": "route",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ruːt/ /raʊt/",
+        "MEANING": "lộ trình"
+      },
+      {
+        "STT": 16,
+        "VOCABULARY": "tour",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/tʊr/",
+        "MEANING": "chuyến đi du lịch"
+      },
+      {
+        "STT": 17,
+        "VOCABULARY": "trip",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/trɪp/",
+        "MEANING": "cuộc du ngoạn, dạo chơi"
+      },
+      {
+        "STT": 18,
+        "VOCABULARY": "journey",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈdʒɝː.ni/",
+        "MEANING": "hành trình"
+      },
+      {
+        "STT": 19,
+        "VOCABULARY": "passport",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈpæspɔːrt/",
+        "MEANING": "hộ chiếu"
+      },
+      {
+        "STT": 20,
+        "VOCABULARY": "ticket",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈtɪkɪt/",
+        "MEANING": "vé"
+      },
+      {
+        "STT": 21,
+        "VOCABULARY": "visa",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈviːzə/",
+        "MEANING": "thị thực"
+      },
+      {
+        "STT": 22,
+        "VOCABULARY": "luggage",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈlʌɡɪdʒ/",
+        "MEANING": "hành lý"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "topicName": "SUBJECT - MÔN HỌC",
+    "originalFile": "22 SUBJECT - MÔN HỌC.json",
+    "words": [
+      {
+        "STT": 1,
+        "VOCABULARY": "English",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈɪŋɡlɪʃ/",
+        "MEANING": "tiếng Anh"
+      },
+      {
+        "STT": 2,
+        "VOCABULARY": "Mathematics Maths",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˌmæθəˈmætɪks/ /mæθs/",
+        "MEANING": "toán học"
+      },
+      {
+        "STT": 3,
+        "VOCABULARY": "Physics",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈfɪzɪks/",
+        "MEANING": "vật lý"
+      },
+      {
+        "STT": 4,
+        "VOCABULARY": "Chemistry",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈkemɪstri/",
+        "MEANING": "hóa học"
+      },
+      {
+        "STT": 5,
+        "VOCABULARY": "History",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈhɪs.t̬ɚ.i/",
+        "MEANING": "lịch sử"
+      },
+      {
+        "STT": 6,
+        "VOCABULARY": "Geography",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/dʒiˈɑːɡrəfi/",
+        "MEANING": "địa lý"
+      },
+      {
+        "STT": 7,
+        "VOCABULARY": "Literature",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈlɪtrətʃər/",
+        "MEANING": "văn học"
+      },
+      {
+        "STT": 8,
+        "VOCABULARY": "Biology",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/baɪˈɑːlədʒi/",
+        "MEANING": "sinh học"
+      },
+      {
+        "STT": 9,
+        "VOCABULARY": "Physical Education",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˌfɪz.ɪ.kəl ed.jʊˈkeɪ.ʃən/",
+        "MEANING": "giáo dục thể chất"
+      },
+      {
+        "STT": 10,
+        "VOCABULARY": "Information technology",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˌɪnfərˌmeɪʃn tekˈnɑːlədʒi/",
+        "MEANING": "Công nghệ thông tin Tin học"
+      },
+      {
+        "STT": 11,
+        "VOCABULARY": "Craft",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/kræft/",
+        "MEANING": "thủ công"
+      },
+      {
+        "STT": 12,
+        "VOCABULARY": "Arts",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ɑːrts/",
+        "MEANING": "mỹ thuật, nghệ thuật"
+      },
+      {
+        "STT": 13,
+        "VOCABULARY": "Music",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈmjuːzɪk/",
+        "MEANING": "âm nhạc"
+      },
+      {
+        "STT": 14,
+        "VOCABULARY": "Engineering",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˌendʒɪˈnɪrɪŋ/",
+        "MEANING": "kỹ thuật"
+      },
+      {
+        "STT": 15,
+        "VOCABULARY": "Medicine",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈmedɪsn/",
+        "MEANING": "y học"
+      },
+      {
+        "STT": 16,
+        "VOCABULARY": "Science",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈsaɪəns/",
+        "MEANING": "khoa học"
+      },
+      {
+        "STT": 17,
+        "VOCABULARY": "Astronomy",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/əˈstrɑːnəmi/",
+        "MEANING": "thiên văn học"
+      },
+      {
+        "STT": 18,
+        "VOCABULARY": "Philosophy",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/fəˈlɑːsəfi/",
+        "MEANING": "triết học"
+      },
+      {
+        "STT": 19,
+        "VOCABULARY": "Psychology",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/saɪˈkɑːlədʒi/",
+        "MEANING": "tâm lý học"
+      },
+      {
+        "STT": 20,
+        "VOCABULARY": "Economics",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˌiːkəˈnɑːmɪks/",
+        "MEANING": "kinh tế học"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "topicName": "SHAPE - HÌNH KHỐI",
+    "originalFile": "23 SHAPE - HÌNH KHỐI.json",
+    "words": [
+      {
+        "STT": 1,
+        "VOCABULARY": "line",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/laɪn/",
+        "MEANING": "đường thẳng"
+      },
+      {
+        "STT": 2,
+        "VOCABULARY": "circle",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈsɝː.kəl/",
+        "MEANING": "hình tròn"
+      },
+      {
+        "STT": 3,
+        "VOCABULARY": "triangle",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈtraɪ.æŋ.ɡəl/",
+        "MEANING": "hình tam giác"
+      },
+      {
+        "STT": 4,
+        "VOCABULARY": "rectangle",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈrek.tæŋ.ɡəl/",
+        "MEANING": "hình chữ nhật"
+      },
+      {
+        "STT": 5,
+        "VOCABULARY": "square",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/skwer/",
+        "MEANING": "hình vuông"
+      },
+      {
+        "STT": 6,
+        "VOCABULARY": "trapezoid",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈtræp.ɪ.zɔɪd/",
+        "MEANING": "hình thang"
+      },
+      {
+        "STT": 7,
+        "VOCABULARY": "heart",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/hɑːrt/",
+        "MEANING": "hình trái tim"
+      },
+      {
+        "STT": 8,
+        "VOCABULARY": "star",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/stɑːr/",
+        "MEANING": "hình ngôi sao"
+      },
+      {
+        "STT": 9,
+        "VOCABULARY": "diamond",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈdaɪ.mənd/",
+        "MEANING": "hình kim cương"
+      },
+      {
+        "STT": 10,
+        "VOCABULARY": "ellipse",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/iˈlɪps/",
+        "MEANING": "hình Elip"
+      },
+      {
+        "STT": 11,
+        "VOCABULARY": "oval",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈoʊ.vəl/",
+        "MEANING": "hình trái xoan, hình bầu dục"
+      },
+      {
+        "STT": 12,
+        "VOCABULARY": "curve",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/wedʒ/",
+        "MEANING": "đường cong"
+      },
+      {
+        "STT": 13,
+        "VOCABULARY": "arrow",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈer.oʊ/",
+        "MEANING": "hình mũi tên"
+      },
+      {
+        "STT": 14,
+        "VOCABULARY": "cross",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/krɑːs/",
+        "MEANING": "hình chữ thập"
+      },
+      {
+        "STT": 15,
+        "VOCABULARY": "crescent",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈkres.ənt/",
+        "MEANING": "hình lưỡi liềm"
+      },
+      {
+        "STT": 16,
+        "VOCABULARY": "cone",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/koʊn/",
+        "MEANING": "hình nón"
+      },
+      {
+        "STT": 17,
+        "VOCABULARY": "cube",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/kjuːb/",
+        "MEANING": "hình lập phương"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "topicName": "SPORTS - THỂ THAO",
+    "originalFile": "24 SPORTS - THỂ THAO.json",
+    "words": [
+      {
+        "STT": 1,
+        "VOCABULARY": "soccer football",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈsɑːkər/ /ˈfʊtbɔːl/",
+        "MEANING": "bóng đá"
+      },
+      {
+        "STT": 2,
+        "VOCABULARY": "American football",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/əˌmerɪkən ˈfʊtbɔːl/",
+        "MEANING": "bóng bầu dục"
+      },
+      {
+        "STT": 3,
+        "VOCABULARY": "volleyball",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈvɑːlibɔːl/",
+        "MEANING": "bóng chuyền"
+      },
+      {
+        "STT": 4,
+        "VOCABULARY": "swimming",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈswɪmɪŋ/",
+        "MEANING": "bơi lội"
+      },
+      {
+        "STT": 5,
+        "VOCABULARY": "tennis",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈtenɪs/",
+        "MEANING": "quần vợt"
+      },
+      {
+        "STT": 6,
+        "VOCABULARY": "badminton",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈbædmɪntən/",
+        "MEANING": "cầu lông"
+      },
+      {
+        "STT": 7,
+        "VOCABULARY": "basketball",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈbæskɪtbɔːl/",
+        "MEANING": "bóng rổ"
+      },
+      {
+        "STT": 8,
+        "VOCABULARY": "table tennis",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈteɪbl tenɪs/",
+        "MEANING": "bóng bàn"
+      },
+      {
+        "STT": 9,
+        "VOCABULARY": "baseball",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈbeɪsbɔːl/",
+        "MEANING": "bóng chày"
+      },
+      {
+        "STT": 10,
+        "VOCABULARY": "athletics",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/æθˈletɪks/",
+        "MEANING": "điền kinh"
+      },
+      {
+        "STT": 11,
+        "VOCABULARY": "martial arts",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˌmɑːrʃl ˈɑːrt/",
+        "MEANING": "võ thuật"
+      },
+      {
+        "STT": 12,
+        "VOCABULARY": "archery",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈɑːrtʃəri/",
+        "MEANING": "bắn cung"
+      },
+      {
+        "STT": 13,
+        "VOCABULARY": "cycling",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈsaɪklɪŋ/",
+        "MEANING": "đua xe đạp"
+      },
+      {
+        "STT": 14,
+        "VOCABULARY": "boxing",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈbɑːksɪŋ/",
+        "MEANING": "quyền anh"
+      },
+      {
+        "STT": 15,
+        "VOCABULARY": "diving",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈdaɪvɪŋ/",
+        "MEANING": "nhảy cầu, lặn"
+      },
+      {
+        "STT": 16,
+        "VOCABULARY": "skiing",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈskiːɪŋ/",
+        "MEANING": "trượt tuyết"
+      },
+      {
+        "STT": 17,
+        "VOCABULARY": "figure skating",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈfɪɡjər skeɪtɪŋ/",
+        "MEANING": "trượt băng nghệ thuật"
+      },
+      {
+        "STT": 18,
+        "VOCABULARY": "skateboarding",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈskeɪtbɔːrdɪŋ/",
+        "MEANING": "trượt ván"
+      },
+      {
+        "STT": 19,
+        "VOCABULARY": "billiards",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈbɪljərdz/",
+        "MEANING": "bi-a"
+      },
+      {
+        "STT": 20,
+        "VOCABULARY": "weightlifting",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈweɪtlɪftɪŋ/",
+        "MEANING": "cử tạ"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "topicName": "TIME - THỜI GIAN",
+    "originalFile": "25 TIME - THỜI GIAN.json",
+    "words": [
+      {
+        "STT": 1,
+        "VOCABULARY": "Second",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈsek.ənd/",
+        "MEANING": "Giây"
+      },
+      {
+        "STT": 2,
+        "VOCABULARY": "Minute",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈmɪnɪt/",
+        "MEANING": "Phút"
+      },
+      {
+        "STT": 3,
+        "VOCABULARY": "Hour",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/aʊr/",
+        "MEANING": "Giờ"
+      },
+      {
+        "STT": 4,
+        "VOCABULARY": "Week",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/wiːk/",
+        "MEANING": "Tuần"
+      },
+      {
+        "STT": 5,
+        "VOCABULARY": "Decade",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/dekˈeɪd/",
+        "MEANING": "Thập kỷ"
+      },
+      {
+        "STT": 6,
+        "VOCABULARY": "Century",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈsentʃəri/",
+        "MEANING": "Thế kỷ"
+      },
+      {
+        "STT": 7,
+        "VOCABULARY": "Weekend",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈwiːkend/",
+        "MEANING": "Cuối tuần"
+      },
+      {
+        "STT": 8,
+        "VOCABULARY": "Month",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/mʌnθ/",
+        "MEANING": "Tháng"
+      },
+      {
+        "STT": 9,
+        "VOCABULARY": "Year",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/jɪr/",
+        "MEANING": "Năm"
+      },
+      {
+        "STT": 10,
+        "VOCABULARY": "Millennium",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/mɪˈleniəm/",
+        "MEANING": "Thiên niên kỷ"
+      },
+      {
+        "STT": 11,
+        "VOCABULARY": "Morning",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈmɔːrnɪŋ/",
+        "MEANING": "Buổi sáng"
+      },
+      {
+        "STT": 12,
+        "VOCABULARY": "noon",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/nuːn/",
+        "MEANING": "buổi trưa"
+      },
+      {
+        "STT": 13,
+        "VOCABULARY": "Afternoon",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˌæftɚˈnuːn/",
+        "MEANING": "Buổi chiều"
+      },
+      {
+        "STT": 14,
+        "VOCABULARY": "Evening",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈiːvnɪŋ/",
+        "MEANING": "Buổi tối"
+      },
+      {
+        "STT": 15,
+        "VOCABULARY": "Midnight",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈmɪdnaɪt/",
+        "MEANING": "Nửa đêm"
+      },
+      {
+        "STT": 16,
+        "VOCABULARY": "Dusk sunset",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/dʌsk/ /ˈsʌnset/",
+        "MEANING": "Hoàng hôn"
+      },
+      {
+        "STT": 17,
+        "VOCABULARY": "Dawn sunrise",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/dɑːn/ /ˈsʌnraɪz/",
+        "MEANING": "Bình minh"
+      },
+      {
+        "STT": 18,
+        "VOCABULARY": "Always",
+        "WORD TYPE": "adv",
+        "PRONUNCIATION": "/ˈɑːlweɪz/",
+        "MEANING": "Luôn luôn"
+      },
+      {
+        "STT": 19,
+        "VOCABULARY": "Often",
+        "WORD TYPE": "adv",
+        "PRONUNCIATION": "/ˈɒftən/",
+        "MEANING": "Thường xuyên"
+      },
+      {
+        "STT": 20,
+        "VOCABULARY": "Normally",
+        "WORD TYPE": "adv",
+        "PRONUNCIATION": "/ˈnɔːrməli/",
+        "MEANING": "Thường xuyên"
+      },
+      {
+        "STT": 21,
+        "VOCABULARY": "Usually",
+        "WORD TYPE": "adv",
+        "PRONUNCIATION": "/’ju:ʒəli/",
+        "MEANING": "Thường xuyên"
+      },
+      {
+        "STT": 22,
+        "VOCABULARY": "Sometimes",
+        "WORD TYPE": "adv",
+        "PRONUNCIATION": "/’sʌmtaimz/",
+        "MEANING": "Thỉnh thoảng, đôi khi"
+      },
+      {
+        "STT": 23,
+        "VOCABULARY": "Occasionally",
+        "WORD TYPE": "adv",
+        "PRONUNCIATION": "/əˈkeɪʒnəli/",
+        "MEANING": "Thỉnh thoảng"
+      },
+      {
+        "STT": 24,
+        "VOCABULARY": "Rarely",
+        "WORD TYPE": "adv",
+        "PRONUNCIATION": "/ˈrerli/",
+        "MEANING": "Hiếm khi"
+      },
+      {
+        "STT": 25,
+        "VOCABULARY": "Seldom",
+        "WORD TYPE": "adv",
+        "PRONUNCIATION": "/’seldəm/",
+        "MEANING": "Ít khi, hiếm khi"
+      },
+      {
+        "STT": 26,
+        "VOCABULARY": "Never",
+        "WORD TYPE": "adv",
+        "PRONUNCIATION": "/ˈnevɚ/",
+        "MEANING": "Không bao giờ"
+      },
+      {
+        "STT": 27,
+        "VOCABULARY": "January",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈdʒænjueri/",
+        "MEANING": "tháng 1"
+      },
+      {
+        "STT": 28,
+        "VOCABULARY": "February",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈfebrueri/",
+        "MEANING": "tháng 2"
+      },
+      {
+        "STT": 29,
+        "VOCABULARY": "March",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/mɑːrtʃ/",
+        "MEANING": "tháng 3"
+      },
+      {
+        "STT": 30,
+        "VOCABULARY": "April",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈeɪprəl/",
+        "MEANING": "tháng 4"
+      },
+      {
+        "STT": 31,
+        "VOCABULARY": "May",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/meɪ/",
+        "MEANING": "tháng 5"
+      },
+      {
+        "STT": 32,
+        "VOCABULARY": "June",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/dʒuːn/",
+        "MEANING": "tháng 6"
+      },
+      {
+        "STT": 33,
+        "VOCABULARY": "July",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/dʒuˈlaɪ/",
+        "MEANING": "tháng 7"
+      },
+      {
+        "STT": 34,
+        "VOCABULARY": "August",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ɔːˈɡʌst/",
+        "MEANING": "tháng 8"
+      },
+      {
+        "STT": 35,
+        "VOCABULARY": "September",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/sepˈtembər/",
+        "MEANING": "tháng 9"
+      },
+      {
+        "STT": 36,
+        "VOCABULARY": "October",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ɑːkˈtəʊbər/",
+        "MEANING": "tháng 10"
+      },
+      {
+        "STT": 37,
+        "VOCABULARY": "November",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/nəʊˈvembər/",
+        "MEANING": "tháng 11"
+      },
+      {
+        "STT": 38,
+        "VOCABULARY": "December",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/dɪˈsembər/",
+        "MEANING": "tháng 12"
+      },
+      {
+        "STT": 39,
+        "VOCABULARY": "Spring",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/sprɪŋ/",
+        "MEANING": "Mùa Xuân"
+      },
+      {
+        "STT": 40,
+        "VOCABULARY": "Summer",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈsʌmər/",
+        "MEANING": "Mùa Hạ"
+      },
+      {
+        "STT": 41,
+        "VOCABULARY": "Autumn / Fall",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈɔtəm/ – /fɔl/",
+        "MEANING": "Mùa Thu"
+      },
+      {
+        "STT": 42,
+        "VOCABULARY": "Winter",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈwɪntər/",
+        "MEANING": "Mùa Đông"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "topicName": "PLANTS - CÂY VÀ HOA",
+    "originalFile": "26 PLANTS - CÂY VÀ HOA.json",
+    "words": [
+      {
+        "STT": 1,
+        "VOCABULARY": "rose",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/rəʊz/",
+        "MEANING": "hoa hồng"
+      },
+      {
+        "STT": 2,
+        "VOCABULARY": "sunflower",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈsʌnflaʊər/",
+        "MEANING": "hoa hướng dương"
+      },
+      {
+        "STT": 3,
+        "VOCABULARY": "lily",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈlɪli/",
+        "MEANING": "hoa huệ tây"
+      },
+      {
+        "STT": 4,
+        "VOCABULARY": "orchid",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈɔːrkɪd/",
+        "MEANING": "hoa lan"
+      },
+      {
+        "STT": 5,
+        "VOCABULARY": "daisy",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈdeɪzi/",
+        "MEANING": "hoa cúc"
+      },
+      {
+        "STT": 6,
+        "VOCABULARY": "dandelion",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈdændɪlaɪən/",
+        "MEANING": "hoa bồ công anh"
+      },
+      {
+        "STT": 7,
+        "VOCABULARY": "tulip",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈtuːlɪp/",
+        "MEANING": "hoa tulip"
+      },
+      {
+        "STT": 8,
+        "VOCABULARY": "water lily",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈwɔːtər lɪli/",
+        "MEANING": "hoa súng"
+      },
+      {
+        "STT": 9,
+        "VOCABULARY": "lotus",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈləʊtəs/",
+        "MEANING": "hoa sen"
+      },
+      {
+        "STT": 10,
+        "VOCABULARY": "hydrangea",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/haɪˈdreɪndʒə/",
+        "MEANING": "hoa cẩm tú cầu"
+      },
+      {
+        "STT": 11,
+        "VOCABULARY": "jasmine",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈdʒæzmɪn/",
+        "MEANING": "hoa nhài"
+      },
+      {
+        "STT": 12,
+        "VOCABULARY": "camellia",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/kəˈmiːliə/",
+        "MEANING": "hoa trà"
+      },
+      {
+        "STT": 13,
+        "VOCABULARY": "peony",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈpiːəni/",
+        "MEANING": "hoa mẫu đơn"
+      },
+      {
+        "STT": 14,
+        "VOCABULARY": "carnation",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/kɑːrˈneɪʃn/",
+        "MEANING": "hoa cẩm chướng"
+      },
+      {
+        "STT": 15,
+        "VOCABULARY": "tree",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/triː/",
+        "MEANING": "cây"
+      },
+      {
+        "STT": 16,
+        "VOCABULARY": "leaf",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/liːf/",
+        "MEANING": "lá"
+      },
+      {
+        "STT": 17,
+        "VOCABULARY": "flower",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈflaʊər/",
+        "MEANING": "hoa"
+      },
+      {
+        "STT": 18,
+        "VOCABULARY": "petal",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈpetl/",
+        "MEANING": "cánh hoa"
+      },
+      {
+        "STT": 19,
+        "VOCABULARY": "pollen",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈpɑːlən/",
+        "MEANING": "phấn hoa"
+      },
+      {
+        "STT": 20,
+        "VOCABULARY": "thorn",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/θɔːrn/",
+        "MEANING": "gai"
+      },
+      {
+        "STT": 21,
+        "VOCABULARY": "bud",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/bʌd/",
+        "MEANING": "chồi"
+      },
+      {
+        "STT": 22,
+        "VOCABULARY": "branch",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/bræntʃ/",
+        "MEANING": "cành cây"
+      },
+      {
+        "STT": 23,
+        "VOCABULARY": "sap",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/sæp/",
+        "MEANING": "nhựa cây"
+      },
+      {
+        "STT": 24,
+        "VOCABULARY": "root",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ruːt/",
+        "MEANING": "rễ cây"
+      },
+      {
+        "STT": 25,
+        "VOCABULARY": "bark",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/bɑːrk/",
+        "MEANING": "vỏ cây"
+      },
+      {
+        "STT": 26,
+        "VOCABULARY": "cactus",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈkæktəs/",
+        "MEANING": "xương rồng"
+      },
+      {
+        "STT": 27,
+        "VOCABULARY": "succulent",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈsʌkjələnt/",
+        "MEANING": "sen đá"
+      },
+      {
+        "STT": 28,
+        "VOCABULARY": "aloe vera",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˌæləʊ ˈvɪrə/",
+        "MEANING": "nha đam"
+      },
+      {
+        "STT": 29,
+        "VOCABULARY": "bamboo",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˌbæmˈbuː/",
+        "MEANING": "cây tre"
+      },
+      {
+        "STT": 30,
+        "VOCABULARY": "sugar cane",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈʃʊɡər keɪn/",
+        "MEANING": "cây mía"
+      },
+      {
+        "STT": 31,
+        "VOCABULARY": "pine",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/paɪn/",
+        "MEANING": "cây thông"
+      },
+      {
+        "STT": 32,
+        "VOCABULARY": "willow",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈwɪləʊ/",
+        "MEANING": "cây liễu"
+      },
+      {
+        "STT": 33,
+        "VOCABULARY": "maple",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈmeɪpl/",
+        "MEANING": "cây phong"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "topicName": "WEATHER - THỜI TIẾT",
+    "originalFile": "27 WEATHER - THỜI TIẾT.json",
+    "words": [
+      {
+        "STT": 1,
+        "VOCABULARY": "weather",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈweðər/",
+        "MEANING": "thời tiết"
+      },
+      {
+        "STT": 2,
+        "VOCABULARY": "weather forecast",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈweðər fɔːrkæst/",
+        "MEANING": "dự báo thời tiết"
+      },
+      {
+        "STT": 3,
+        "VOCABULARY": "windy",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈwɪndi/",
+        "MEANING": "nhiều gió"
+      },
+      {
+        "STT": 4,
+        "VOCABULARY": "haze",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/heɪz/",
+        "MEANING": "màn sương mỏng, thường gây ra bởi sức nóng"
+      },
+      {
+        "STT": 5,
+        "VOCABULARY": "breeze",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/briːz/",
+        "MEANING": "gió nhẹ"
+      },
+      {
+        "STT": 6,
+        "VOCABULARY": "gloomy",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈɡluːmi/",
+        "MEANING": "trời ảm đạm"
+      },
+      {
+        "STT": 7,
+        "VOCABULARY": "cloudy",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈklaʊdi/",
+        "MEANING": "trời nhiều mây"
+      },
+      {
+        "STT": 8,
+        "VOCABULARY": "sunny",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈsʌni/",
+        "MEANING": "bầu trời chỉ có mặt trời chiếu sáng, không có mây"
+      },
+      {
+        "STT": 9,
+        "VOCABULARY": "foggy",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈfɑːɡi/",
+        "MEANING": "có sương mù"
+      },
+      {
+        "STT": 10,
+        "VOCABULARY": "humid",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈhjuːmɪd/",
+        "MEANING": "ẩm"
+      },
+      {
+        "STT": 11,
+        "VOCABULARY": "bright",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/braɪt/",
+        "MEANING": "sáng mạnh"
+      },
+      {
+        "STT": 12,
+        "VOCABULARY": "wet",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/wet/",
+        "MEANING": "ẩm ướt"
+      },
+      {
+        "STT": 13,
+        "VOCABULARY": "dry",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/draɪ/",
+        "MEANING": "hanh khô"
+      },
+      {
+        "STT": 14,
+        "VOCABULARY": "mild",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/maɪld/",
+        "MEANING": "ôn hòa, ấm áp"
+      },
+      {
+        "STT": 15,
+        "VOCABULARY": "clear",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/klɪr/",
+        "MEANING": "trời trong trẻo, quang đãng"
+      },
+      {
+        "STT": 16,
+        "VOCABULARY": "climate",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈklaɪmət/",
+        "MEANING": "khí hậu"
+      },
+      {
+        "STT": 17,
+        "VOCABULARY": "overcast",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˌəʊvərˈkæst/",
+        "MEANING": "âm u"
+      },
+      {
+        "STT": 18,
+        "VOCABULARY": "lightning",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈlaɪtnɪŋ/",
+        "MEANING": "tia chớp"
+      },
+      {
+        "STT": 19,
+        "VOCABULARY": "snow",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/snəʊ/",
+        "MEANING": "tuyết"
+      },
+      {
+        "STT": 20,
+        "VOCABULARY": "drizzle",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈdrɪzl/",
+        "MEANING": "mưa phùn"
+      },
+      {
+        "STT": 21,
+        "VOCABULARY": "hail",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/heɪl/",
+        "MEANING": "mưa đá"
+      },
+      {
+        "STT": 22,
+        "VOCABULARY": "thunderstorm",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈθʌndərstɔːrm/",
+        "MEANING": "bão tố có sấm sét, cơn giông"
+      },
+      {
+        "STT": 23,
+        "VOCABULARY": "snowflake",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈsnəʊfleɪk/",
+        "MEANING": "bông hoa tuyết"
+      },
+      {
+        "STT": 24,
+        "VOCABULARY": "snowstorm",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈsnəʊstɔːrm/",
+        "MEANING": "bão tuyết"
+      },
+      {
+        "STT": 25,
+        "VOCABULARY": "blizzard",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈblɪzərd/",
+        "MEANING": "cơn bão tuyết"
+      },
+      {
+        "STT": 26,
+        "VOCABULARY": "damp",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/dæmp/",
+        "MEANING": "ẩm thấp, ẩm ướt"
+      },
+      {
+        "STT": 27,
+        "VOCABULARY": "thunder",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈθʌndər/",
+        "MEANING": "sấm sét"
+      },
+      {
+        "STT": 28,
+        "VOCABULARY": "rain",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/reɪn/",
+        "MEANING": "mưa"
+      },
+      {
+        "STT": 29,
+        "VOCABULARY": "shower",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈʃaʊər/",
+        "MEANING": "mưa rào"
+      },
+      {
+        "STT": 30,
+        "VOCABULARY": "rain-storm",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈreɪnstɔːrm/",
+        "MEANING": "mưa bão"
+      },
+      {
+        "STT": 31,
+        "VOCABULARY": "flood",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/flʌd/",
+        "MEANING": "lũ lụt"
+      },
+      {
+        "STT": 32,
+        "VOCABULARY": "gale",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ɡeɪl/",
+        "MEANING": "gió giật"
+      },
+      {
+        "STT": 33,
+        "VOCABULARY": "tornado",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/tɔːrˈneɪdəʊ/",
+        "MEANING": "lốc xoáy"
+      },
+      {
+        "STT": 34,
+        "VOCABULARY": "typhoon",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/taɪˈfuːn/",
+        "MEANING": "bão nhiệt đới"
+      },
+      {
+        "STT": 35,
+        "VOCABULARY": "storm",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/stɔːrm/",
+        "MEANING": "dông bão"
+      },
+      {
+        "STT": 36,
+        "VOCABULARY": "rainbow",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈreɪnbəʊ/",
+        "MEANING": "cầu vồng"
+      },
+      {
+        "STT": 37,
+        "VOCABULARY": "blustery",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈblʌstəri/",
+        "MEANING": "cơn gió mạnh"
+      },
+      {
+        "STT": 38,
+        "VOCABULARY": "mist",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/mɪst/",
+        "MEANING": "sương"
+      },
+      {
+        "STT": 39,
+        "VOCABULARY": "hurricane",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈhɜːrəkeɪn/",
+        "MEANING": "siêu bão"
+      },
+      {
+        "STT": 40,
+        "VOCABULARY": "frosty",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈfrɔːsti/",
+        "MEANING": "lạnh băng"
+      },
+      {
+        "STT": 41,
+        "VOCABULARY": "hot",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/hɑːt/",
+        "MEANING": "nóng"
+      },
+      {
+        "STT": 42,
+        "VOCABULARY": "boiling",
+        "WORD TYPE": "hot) (adj",
+        "PRONUNCIATION": "/ˈbɔɪlɪŋ/",
+        "MEANING": "rất nóng"
+      },
+      {
+        "STT": 43,
+        "VOCABULARY": "cold",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/kəʊld/",
+        "MEANING": "lạnh"
+      },
+      {
+        "STT": 44,
+        "VOCABULARY": "chilly",
+        "WORD TYPE": "adj",
+        "PRONUNCIATION": "/ˈtʃɪli/",
+        "MEANING": "lạnh thấu xương"
+      },
+      {
+        "STT": 45,
+        "VOCABULARY": "freeze",
+        "WORD TYPE": "v",
+        "PRONUNCIATION": "/friːz/",
+        "MEANING": "đóng băng"
+      },
+      {
+        "STT": 46,
+        "VOCABULARY": "temperature",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/ˈtemprətʃər/",
+        "MEANING": "nhiệt độ"
+      },
+      {
+        "STT": 47,
+        "VOCABULARY": "thermometer",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/θərˈmɑːmɪtər/",
+        "MEANING": "nhiệt kế"
+      },
+      {
+        "STT": 48,
+        "VOCABULARY": "degree",
+        "WORD TYPE": "n",
+        "PRONUNCIATION": "/dɪˈɡriː/",
+        "MEANING": "độ"
+      },
+      {
+        "STT": 49,
+        "VOCABULARY": "Fahrenheit",
+        "WORD TYPE": "degree) (adj",
+        "PRONUNCIATION": "/ˈfærənhaɪt/",
+        "MEANING": "độ F"
+      },
+      {
+        "STT": 50,
+        "VOCABULARY": "Celsius",
+        "WORD TYPE": "degree) (adj",
+        "PRONUNCIATION": "/ˈselsiəs/",
+        "MEANING": "độ C"
+      }
+    ]
+  }
+]
