@@ -1,7 +1,10 @@
-import React from 'react';
-import { BookOpen, Search, Settings, Menu, X, Mic } from 'lucide-react';
-import { NavLink } from 'react-router-dom';
+import React, { useState } from 'react';
+import { BookOpen, Settings, Menu, X, Mic, LogIn, LogOut, User } from 'lucide-react';
+import { NavLink, useLocation } from 'react-router-dom';
 import { useSettings } from '../../contexts/SettingsContext';
+import { useAuth } from '../../contexts/AuthContext';
+import { AuthModal } from '../auth/AuthModal';
+import { ProfileModal } from '../auth/ProfileModal';
 
 interface SidebarProps {
   isCollapsed: boolean;
@@ -12,6 +15,9 @@ interface SidebarProps {
 
 export const Sidebar: React.FC<SidebarProps> = ({ isCollapsed, toggleSidebar, isMobileOpen, closeMobileSidebar }) => {
   const { t, lastTopicId } = useSettings();
+  const { user, isAuthenticated, logout } = useAuth();
+  const [isAuthModalOpen, setIsAuthModalOpen] = useState(false);
+  const [isProfileModalOpen, setIsProfileModalOpen] = useState(false);
 
   return (
     <>
@@ -83,10 +89,6 @@ export const Sidebar: React.FC<SidebarProps> = ({ isCollapsed, toggleSidebar, is
                 <span className={`ml-3 font-medium ${isCollapsed ? 'block md:hidden' : 'block'}`}>{t.topics}</span>
               </NavLink>
             </li>
-
-          </ul>
-
-          <ul className="space-y-2 px-2 mt-auto">
             <li>
               <NavLink 
                 to="/settings" 
@@ -102,8 +104,52 @@ export const Sidebar: React.FC<SidebarProps> = ({ isCollapsed, toggleSidebar, is
               </NavLink>
             </li>
           </ul>
+
+          <div className="p-4 border-t border-slate-700 dark:border-slate-800">
+            {!isAuthenticated ? (
+              <button
+                onClick={() => setIsAuthModalOpen(true)}
+                className="flex items-center gap-3 w-full p-2.5 rounded-lg text-slate-300 hover:bg-slate-800 hover:text-white transition-colors"
+              >
+                <LogIn className="w-6 h-6 shrink-0" />
+                {!isCollapsed && <span className="font-medium">Đăng nhập</span>}
+              </button>
+            ) : (
+              <div className="flex items-center justify-between group">
+                <button 
+                  onClick={() => setIsProfileModalOpen(true)}
+                  className="flex items-center gap-3 overflow-hidden text-left hover:opacity-80 transition-opacity"
+                >
+                  <div className="w-8 h-8 shrink-0 rounded-full bg-slate-700 flex items-center justify-center text-blue-400 font-bold overflow-hidden">
+                    {user?.avatar ? (
+                      <img src={user.avatar} alt="avatar" className="w-full h-full rounded-full object-cover" />
+                    ) : (
+                      <User className="w-5 h-5" />
+                    )}
+                  </div>
+                  {!isCollapsed && (
+                    <span className="font-medium truncate text-slate-200">
+                      {user?.nickname}
+                    </span>
+                  )}
+                </button>
+                {!isCollapsed && (
+                  <button
+                    onClick={logout}
+                    className="p-1.5 text-slate-400 hover:text-red-400 rounded-lg hover:bg-slate-800 transition-colors opacity-0 group-hover:opacity-100"
+                    title="Đăng xuất"
+                  >
+                    <LogOut className="w-4 h-4" />
+                  </button>
+                )}
+              </div>
+            )}
+          </div>
         </nav>
       </aside>
+      
+      <AuthModal isOpen={isAuthModalOpen} onClose={() => setIsAuthModalOpen(false)} />
+      <ProfileModal isOpen={isProfileModalOpen} onClose={() => setIsProfileModalOpen(false)} />
     </>
   );
 };

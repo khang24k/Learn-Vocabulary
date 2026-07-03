@@ -1,4 +1,5 @@
-import React, { createContext, useContext, useState, useEffect, ReactNode } from 'react';
+import React, { createContext, useContext, useState, useEffect, ReactNode, useCallback } from 'react';
+import { useAuth } from './AuthContext';
 
 interface ProgressContextType {
   learnedWords: Record<number, string[]>;
@@ -24,7 +25,32 @@ export const ProgressProvider: React.FC<{ children: ReactNode }> = ({ children }
     localStorage.setItem('vocabularyProgress', JSON.stringify(learnedWords));
   }, [learnedWords]);
 
-  const markWordAsLearned = (topicId: number, vocabulary: string) => {
+  const { isAuthenticated, user } = useAuth();
+
+  // Load progress when user logs in
+  useEffect(() => {
+    if (isAuthenticated && user?.progress) {
+      const serverProgress: Record<number, string[]> = {};
+      user.progress.forEach(p => {
+        if (!serverProgress[p.topicId]) {
+          serverProgress[p.topicId] = [];
+        }
+        serverProgress[p.topicId].push(p.vocabulary);
+      });
+      
+      setLearnedWords(prev => {
+        const merged = { ...prev };
+        for (const [topicId, words] of Object.entries(serverProgress)) {
+          const tId = Number(topicId);
+          if (!merged[tId]) merged[tId] = [];
+          merged[tId] = Array.from(new Set([...merged[tId], ...words]));
+        }
+        return merged;
+      });
+    }
+  }, [isAuthenticated, user]);
+
+  const markWordAsLearned = useCallback(async (topicId: number, vocabulary: string) => {
     setLearnedWords(prev => {
       const topicWords = prev[topicId] || [];
       if (!topicWords.includes(vocabulary)) {
@@ -35,7 +61,19 @@ export const ProgressProvider: React.FC<{ children: ReactNode }> = ({ children }
       }
       return prev;
     });
-  };
+
+    if (isAuthenticated) {
+      try {
+        await fetch('/api/sync/progress', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ topicId, vocabulary })
+        });
+      } catch (e) {
+        console.error('Failed to sync progress:', e);
+      }
+    }
+  }, [isAuthenticated]);
 
   const getLearnedCount = (topicId: number) => {
     return learnedWords[topicId]?.length || 0;

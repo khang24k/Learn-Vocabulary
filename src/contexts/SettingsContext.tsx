@@ -1,5 +1,6 @@
 import React, { createContext, useContext, useState, useEffect, ReactNode } from 'react';
 import { type Language, translations } from '../utils/i18n';
+import { useAuth } from './AuthContext';
 
 interface SettingsContextType {
   theme: 'light' | 'dark';
@@ -43,19 +44,45 @@ export const SettingsProvider: React.FC<{ children: ReactNode }> = ({ children }
     return saved ? parseInt(saved, 10) : 0;
   });
 
+  const { isAuthenticated, user } = useAuth();
+
+  useEffect(() => {
+    if (isAuthenticated && user?.settings) {
+      if (user.settings.theme) setThemeState(user.settings.theme as 'light' | 'dark');
+      if (user.settings.language) setLanguageState(user.settings.language as Language);
+      if (user.settings.speechRate !== undefined) setSpeechRateState(user.settings.speechRate);
+    }
+  }, [isAuthenticated, user]);
+
+  const syncSettings = async (updates: Record<string, any>) => {
+    if (!isAuthenticated) return;
+    try {
+      await fetch('/api/sync/settings', {
+        method: 'PUT',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(updates),
+      });
+    } catch (e) {
+      console.error('Failed to sync settings:', e);
+    }
+  };
+
   const setTheme = (newTheme: 'light' | 'dark') => {
     setThemeState(newTheme);
     localStorage.setItem('theme', newTheme);
+    syncSettings({ theme: newTheme });
   };
 
   const setLanguage = (lang: Language) => {
     setLanguageState(lang);
     localStorage.setItem('language', lang);
+    syncSettings({ language: lang });
   };
 
   const setSpeechRate = (rate: number) => {
     setSpeechRateState(rate);
     localStorage.setItem('speechRate', rate.toString());
+    syncSettings({ speechRate: rate });
   };
 
   const setLastTopicId = (id: number | null) => {

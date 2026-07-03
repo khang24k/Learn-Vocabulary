@@ -9,6 +9,7 @@ import { VoiceLookupPage } from './components/speech/VoiceLookupPage';
 import { useVocabularyData } from './hooks/useVocabularyData';
 import { SettingsProvider } from './contexts/SettingsContext';
 import { ProgressProvider } from './contexts/ProgressContext';
+import { AuthProvider } from './contexts/AuthContext';
 function AppContent() {
   const { topics, isLoading, error } = useVocabularyData();
 
@@ -46,11 +47,13 @@ function AppContent() {
 
 function App() {
   return (
-    <SettingsProvider>
-      <ProgressProvider>
-        <AppContent />
-      </ProgressProvider>
-    </SettingsProvider>
+    <AuthProvider>
+      <SettingsProvider>
+        <ProgressProvider>
+          <AppContent />
+        </ProgressProvider>
+      </SettingsProvider>
+    </AuthProvider>
   );
 }
 

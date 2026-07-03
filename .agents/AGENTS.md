@@ -15,3 +15,9 @@ Lý do: Trình biên dịch esbuild của Vite sẽ loại bỏ các interface n
 - Mọi chuỗi văn bản (text) hiển thị cho người dùng phải được định nghĩa trong `src/utils/i18n.ts` và sử dụng thông qua hook `useSettings().t`.
 - Không được code cứng (hardcode) tiếng Việt hoặc tiếng Anh trực tiếp vào mã nguồn HTML/TSX trừ khi đó là văn bản dùng một lần không cần quốc tế hóa.
 </RULE[i18n_translation]>
+
+<RULE[react_scroll_restoration]>
+**QUAN TRỌNG:** Khi thực hiện tính năng khôi phục vị trí cuộn (scroll restoration) trong React:
+- TUYỆT ĐỐI KHÔNG SỬ DỤNG `useEffect` kết hợp với `setTimeout` để cuộn, vì điều này sẽ gây ra hiện tượng chớp màn hình (flash) hoặc trượt (giật) khó chịu cho người dùng.
+- BẮT BUỘC SỬ DỤNG `useLayoutEffect` để gọi hàm `scrollTo()` (ví dụ: `element.scrollTo({ top: position, behavior: 'instant' })`). Thao tác này đảm bảo vị trí cuộn được thiết lập đồng bộ trước khi trình duyệt vẽ (paint) màn hình, giúp trải nghiệm khôi phục trang hoàn toàn tức thì và mượt mà.
+</RULE[react_scroll_restoration]>
