@@ -31,7 +31,7 @@ export const Sidebar: React.FC<SidebarProps> = ({ isCollapsed, toggleSidebar, is
 
       {/* Sidebar Container */}
       <aside 
-        className={`fixed md:sticky top-0 left-0 z-50 bg-slate-900 dark:bg-slate-950 text-white transition-all duration-300 ease-in-out flex flex-col h-screen ${
+        className={`fixed md:sticky top-0 left-0 z-50 bg-slate-900 dark:bg-slate-950 text-white transition-all duration-300 ease-in-out flex flex-col h-[100dvh] ${
           isMobileOpen ? 'translate-x-0' : '-translate-x-full md:translate-x-0'
         } ${isCollapsed ? 'md:w-20' : 'md:w-64'} w-64`}
       >

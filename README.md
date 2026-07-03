@@ -1,46 +1,32 @@
-# \# Learn Vocabulary Web App
+# Learn Vocabulary Web App
 
-# 
+Ứng dụng web giúp bạn học từ vựng tiếng Anh hiệu quả qua các chủ đề đa dạng, kết hợp luyện nghe và phát âm.
+Được xây dựng với giao diện hiện đại, tối ưu trải nghiệm người dùng cùng hệ thống lưu trữ đồng bộ trên Cloud.
 
-# Ứng dụng web giúp học từ vựng tiếng Anh hiệu quả.
+🌐 **Demo trực tuyến:** [https://learn-vocabulary-lake.vercel.app/](https://learn-vocabulary-lake.vercel.app/)
 
-# 
+## 🚀 Công nghệ sử dụng
+- **Frontend:** React, TypeScript, Vite, TailwindCSS
+- **Backend/API:** Vercel Serverless Functions
+- **Database:** Prisma ORM, PostgreSQL
 
-# \## ✨ Tính năng nổi bật
+## 🛠️ Hướng dẫn cài đặt và chạy Local
 
-# \- Quản lý kho từ vựng theo chủ đề.
+**1. Cài đặt các thư viện phụ thuộc**
+```bash
+npm install
+```
 
-# \- Luyện nghe và phát âm từ vựng.
+**2. Cấu hình biến môi trường**
+Tạo file `.env` ở thư mục gốc của dự án và khai báo các thông tin kết nối Database:
+```env
+DATABASE_URL="chuỗi_kết_nối_postgres_của_bạn"
+JWT_SECRET="khóa_bí_mật_cho_jwt"
+```
 
-# \- Giao diện thân thiện, dễ sử dụng.
-
-# 
-
-# \## 🚀 Công nghệ sử dụng
-
-# \- React / TypeScript
-
-# \- Vite
-
-# 
-
-# \## 🛠️ Hướng dẫn cài đặt và chạy thử
-
-# 1\. Cài đặt các thư viện phụ thuộc:
-
-# &#x20;  ```bash
-
-# &#x20;  npm install
-
-# &#x20;  ```
-
-# 2\. Chạy dự án ở môi trường local:
-
-# &#x20;  ```bash
-
-# &#x20;  npm run dev
-
-# &#x20;  ```
-
-
-
+**3. Khởi chạy dự án**
+Vì dự án có sử dụng API backend (Serverless Functions), bạn cần chạy thông qua lệnh của Vercel thay vì lệnh `npm run dev` thông thường:
+```bash
+npx vercel dev
+```
+*(Nếu chưa cài Vercel CLI, hệ thống sẽ tự động tải xuống. Bạn có thể truy cập `http://localhost:3000` sau khi server khởi động xong).*

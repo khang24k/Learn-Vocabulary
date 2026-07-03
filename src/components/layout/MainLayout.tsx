@@ -20,7 +20,7 @@ export const MainLayout: React.FC<MainLayoutProps> = ({ children }) => {
   const closeMobileSidebar = () => setIsMobileOpen(false);
 
   return (
-    <div className="flex h-screen overflow-hidden bg-slate-50 dark:bg-slate-900 transition-colors duration-300">
+    <div className="flex h-[100dvh] overflow-hidden bg-slate-50 dark:bg-slate-900 transition-colors duration-300">
       <Sidebar 
         isCollapsed={isSidebarCollapsed} 
         toggleSidebar={toggleSidebar} 
@@ -28,7 +28,7 @@ export const MainLayout: React.FC<MainLayoutProps> = ({ children }) => {
         closeMobileSidebar={closeMobileSidebar}
       />
       
-      <main id="main-scroll-container" className="flex-1 flex flex-col transition-all duration-300 min-w-0 h-screen overflow-y-auto">
+      <main id="main-scroll-container" className="flex-1 flex flex-col transition-all duration-300 min-w-0 h-[100dvh] overflow-y-auto">
         {/* Mobile Header */}
         <header className="md:hidden flex items-center p-4 bg-white dark:bg-slate-800 shadow-sm border-b border-slate-200 dark:border-slate-700 sticky top-0 z-30">
           <button 
