@@ -84,7 +84,7 @@ export const VoiceLookupPage: React.FC = () => {
             onMouseLeave={handleMouseUp}
             onTouchStart={handleMouseDown}
             onTouchEnd={handleMouseUp}
-            className={`p-6 rounded-full transition-all focus:outline-none flex items-center justify-center ${
+            className={`p-6 rounded-full transition-all focus:outline-none flex items-center justify-center select-none [-webkit-touch-callout:none] ${
               isRecording 
                 ? 'bg-red-500 text-white animate-pulse shadow-xl shadow-red-200 dark:shadow-red-900 scale-110' 
                 : 'bg-blue-600 hover:bg-blue-700 text-white shadow-lg shadow-blue-200 dark:shadow-blue-900/40 hover:scale-105'
