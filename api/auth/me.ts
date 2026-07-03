@@ -1,6 +1,6 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node';
-import { prisma } from '../_db';
-import { getUserIdFromReq } from '../_jwt';
+import { prisma } from '../_db.js';
+import { getUserIdFromReq } from '../_jwt.js';
 
 export default async function handler(req: VercelRequest, res: VercelResponse) {
   if (req.method !== 'GET') {

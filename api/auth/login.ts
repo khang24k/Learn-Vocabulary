@@ -1,6 +1,6 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node';
-import { prisma } from '../_db';
-import { signToken, setAuthCookie } from '../_jwt';
+import { prisma } from '../_db.js';
+import { signToken, setAuthCookie } from '../_jwt.js';
 import bcrypt from 'bcryptjs';
 
 export default async function handler(req: VercelRequest, res: VercelResponse) {
