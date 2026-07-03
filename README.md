@@ -20,8 +20,8 @@ npm install
 **2. Cấu hình biến môi trường**
 Tạo file `.env` ở thư mục gốc của dự án và khai báo các thông tin kết nối Database:
 ```env
-DATABASE_URL="chuỗi_kết_nối_postgres_của_bạn"
-JWT_SECRET="khóa_bí_mật_cho_jwt"
+DATABASE_URL="chuỗi_kết_nối_postgres_của_bạn(prj này mình sử dụng Neon"
+JWT_SECRET="khóa_bí_mật_cho_jwt(tùy chọn ngẫu nhiên)"
 ```
 
 **3. Khởi chạy dự án**
