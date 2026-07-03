@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useAuth } from '../../contexts/AuthContext';
-import { X, Loader2, User } from 'lucide-react';
+import { X, Loader2 } from 'lucide-react';
 
 interface ProfileModalProps {
   isOpen: boolean;

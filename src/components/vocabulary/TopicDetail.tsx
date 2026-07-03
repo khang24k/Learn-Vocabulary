@@ -31,7 +31,7 @@ export const TopicDetail: React.FC<TopicDetailProps> = ({ topics }) => {
   }, [topic?.id]); // Only run when topic changes, not on every render
 
   useEffect(() => {
-    let timeoutId: NodeJS.Timeout;
+    let timeoutId: ReturnType<typeof setTimeout>;
     const container = document.getElementById('main-scroll-container');
     
     if (!container) return;

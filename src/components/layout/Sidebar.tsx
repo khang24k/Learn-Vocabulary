@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { BookOpen, Settings, Menu, X, Mic, LogIn, LogOut, User } from 'lucide-react';
-import { NavLink, useLocation } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 import { useSettings } from '../../contexts/SettingsContext';
 import { useAuth } from '../../contexts/AuthContext';
 import { AuthModal } from '../auth/AuthModal';

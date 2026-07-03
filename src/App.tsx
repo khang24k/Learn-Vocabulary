@@ -1,4 +1,3 @@
-import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { MainLayout } from './components/layout/MainLayout';
 import { TopicList } from './components/vocabulary/TopicList';
@@ -10,6 +9,7 @@ import { useVocabularyData } from './hooks/useVocabularyData';
 import { SettingsProvider } from './contexts/SettingsContext';
 import { ProgressProvider } from './contexts/ProgressContext';
 import { AuthProvider } from './contexts/AuthContext';
+
 function AppContent() {
   const { topics, isLoading, error } = useVocabularyData();
 

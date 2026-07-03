@@ -13,7 +13,7 @@ interface VocabularyCardProps {
 
 export const VocabularyCard: React.FC<VocabularyCardProps> = ({ word, topicId }) => {
   const { speak } = useSpeechSynthesis();
-  const { transcript, isRecording, startRecording, stopRecording, setTranscript } = useSpeechRecognition();
+  const { transcript, isRecording, startRecording, stopRecording } = useSpeechRecognition();
   const { t } = useSettings();
   const { markWordAsLearned, learnedWords } = useProgress();
   
