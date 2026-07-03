@@ -28,7 +28,7 @@ export const MainLayout: React.FC<MainLayoutProps> = ({ children }) => {
         closeMobileSidebar={closeMobileSidebar}
       />
       
-      <main className="flex-1 flex flex-col transition-all duration-300 min-w-0 h-screen overflow-y-auto">
+      <main id="main-scroll-container" className="flex-1 flex flex-col transition-all duration-300 min-w-0 h-screen overflow-y-auto">
         {/* Mobile Header */}
         <header className="md:hidden flex items-center p-4 bg-white dark:bg-slate-800 shadow-sm border-b border-slate-200 dark:border-slate-700 sticky top-0 z-30">
           <button 

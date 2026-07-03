@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import type { Topic } from '../../types';
 import { Link } from 'react-router-dom';
 import { BookMarked } from 'lucide-react';
@@ -10,8 +10,14 @@ interface TopicListProps {
 }
 
 export const TopicList: React.FC<TopicListProps> = ({ topics }) => {
-  const { t } = useSettings();
+  const { t, setLastTopicId, setLastScrollPos } = useSettings();
   const { getTopicProgress, getLearnedCount } = useProgress();
+
+  useEffect(() => {
+    // Clear navigation state when explicitly viewing the topic list
+    setLastTopicId(null);
+    setLastScrollPos(0);
+  }, [setLastTopicId, setLastScrollPos]);
 
   return (
     <div>

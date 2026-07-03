@@ -8,6 +8,10 @@ interface SettingsContextType {
   setLanguage: (lang: Language) => void;
   speechRate: number;
   setSpeechRate: (rate: number) => void;
+  lastTopicId: number | null;
+  setLastTopicId: (id: number | null) => void;
+  lastScrollPos: number;
+  setLastScrollPos: (pos: number) => void;
   t: typeof translations.vi;
 }
 
@@ -29,6 +33,16 @@ export const SettingsProvider: React.FC<{ children: ReactNode }> = ({ children }
     return saved ? parseFloat(saved) : 1.0;
   });
 
+  const [lastTopicId, setLastTopicIdState] = useState<number | null>(() => {
+    const saved = sessionStorage.getItem('lastTopicId');
+    return saved ? parseInt(saved, 10) : null;
+  });
+
+  const [lastScrollPos, setLastScrollPosState] = useState<number>(() => {
+    const saved = sessionStorage.getItem('lastScrollPos');
+    return saved ? parseInt(saved, 10) : 0;
+  });
+
   const setTheme = (newTheme: 'light' | 'dark') => {
     setThemeState(newTheme);
     localStorage.setItem('theme', newTheme);
@@ -44,6 +58,20 @@ export const SettingsProvider: React.FC<{ children: ReactNode }> = ({ children }
     localStorage.setItem('speechRate', rate.toString());
   };
 
+  const setLastTopicId = (id: number | null) => {
+    setLastTopicIdState(id);
+    if (id !== null) {
+      sessionStorage.setItem('lastTopicId', id.toString());
+    } else {
+      sessionStorage.removeItem('lastTopicId');
+    }
+  };
+
+  const setLastScrollPos = (pos: number) => {
+    setLastScrollPosState(pos);
+    sessionStorage.setItem('lastScrollPos', pos.toString());
+  };
+
   useEffect(() => {
     const root = window.document.documentElement;
     if (theme === 'dark') {
@@ -56,7 +84,14 @@ export const SettingsProvider: React.FC<{ children: ReactNode }> = ({ children }
   const t = translations[language];
 
   return (
-    <SettingsContext.Provider value={{ theme, setTheme, language, setLanguage, speechRate, setSpeechRate, t }}>
+    <SettingsContext.Provider value={{ 
+      theme, setTheme, 
+      language, setLanguage, 
+      speechRate, setSpeechRate, 
+      lastTopicId, setLastTopicId,
+      lastScrollPos, setLastScrollPos,
+      t 
+    }}>
       {children}
     </SettingsContext.Provider>
   );

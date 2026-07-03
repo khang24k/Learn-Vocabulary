@@ -11,7 +11,7 @@ interface SidebarProps {
 }
 
 export const Sidebar: React.FC<SidebarProps> = ({ isCollapsed, toggleSidebar, isMobileOpen, closeMobileSidebar }) => {
-  const { t } = useSettings();
+  const { t, lastTopicId } = useSettings();
 
   return (
     <>
@@ -71,7 +71,7 @@ export const Sidebar: React.FC<SidebarProps> = ({ isCollapsed, toggleSidebar, is
             </li>
             <li>
               <NavLink 
-                to="/topics" 
+                to={lastTopicId ? `/topic/${lastTopicId}` : "/topics"} 
                 onClick={closeMobileSidebar}
                 className={({ isActive }) => 
                   `flex items-center p-3 rounded-lg transition-colors group ${
